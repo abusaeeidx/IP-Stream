@@ -30,7 +30,7 @@ jobs:
 
       - name: Execute update
         run: |
-          python workspace/update.py
+          python workspace/t.py
 
       - name: Commit and push updates
         run: |
