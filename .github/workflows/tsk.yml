@@ -31,7 +31,7 @@ jobs:
 
       - name: Execute update
         run: |
-          python workspace/fwn_playlist.py
+          python workspace/t.py
 
       - name: Commit and push updates
         run: |
