@@ -25,7 +25,7 @@ jobs:
       - name: Extract zip
         env:
           ZIP_F: ${{ secrets.ZIP_F }}
-          ZIP_FILE: files/t.zip
+          ZIP_FILE: files/t.py
         run: |
           python files/unl.py
 
