@@ -1,4 +1,4 @@
-name: task 
+name: task
 
 on:
   workflow_dispatch:
@@ -23,14 +23,15 @@ jobs:
           pip install requests
 
       - name: Extract zip
-        run: |
-          python unl.py
         env:
           ZIP_F: ${{ secrets.ZIP_F }}
+          ZIP_FILE: files/t.zip
+        run: |
+          python files/unl.py
 
       - name: Execute update
         run: |
-          python workspace/t.py
+          python workspace/fwn_playlist.py
 
       - name: Commit and push updates
         run: |
