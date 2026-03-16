@@ -7,52 +7,56 @@ http://66.45.232.131:9994/;stream.mp3
 http://103.175.73.12:8080/live/378/378_0.m3u8
 #EXTINF:-1 tvg-name="Ustsav Plus HD" group-title="Bangladesh",Ustsav Plus HD
 http://103.175.73.12:8080/live/9/9_0.m3u8
-#EXTINF:-1 tvg-name="Colors Rishtey" group-title="Bangladesh",Colors Rishtey
-http://103.175.73.12:8080/live/12/12_0.m3u8
 #EXTINF:-1 tvg-name="Zee Anmol TV" group-title="Bangladesh",Zee Anmol TV
 http://103.175.73.12:8080/live/256/256_0.m3u8
-#EXTINF:-1 tvg-name="Zee Cinema HD" group-title="Bangladesh",Zee Cinema HD
-http://103.99.249.139/zeecinema/index.m3u8
+#EXTINF:-1 tvg-name="Colors Rishtey" group-title="Bangladesh",Colors Rishtey
+http://103.175.73.12:8080/live/12/12_0.m3u8
 #EXTINF:-1 tvg-name="Big Magic" group-title="Bangladesh",Big Magic
 http://103.175.73.12:8080/live/13/13_0.m3u8
-#EXTINF:-1 tvg-name="Star Gold" group-title="Bangladesh",Star Gold
-http://103.99.249.139/stargold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Zee Action" group-title="Bangladesh",Zee Action
 http://103.175.73.12:8080/live/270/270_0.m3u8
+#EXTINF:-1 tvg-name="Zee Cinema HD" group-title="Bangladesh",Zee Cinema HD
+http://103.99.249.139/zeecinema/index.m3u8
+#EXTINF:-1 tvg-name="Zee Action" group-title="Bangladesh",Zee Action
+http://103.161.153.165:8000/play/a03s/index.m3u8
+#EXTINF:-1 tvg-name="Star Gold" group-title="Bangladesh",Star Gold
+http://103.99.249.139/stargold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Goldmines Bollywood" group-title="Bangladesh",Goldmines Bollywood
 http://103.175.73.12:8080/live/52/52_0.m3u8
-#EXTINF:-1 tvg-name="Sony Sports Ten 5" group-title="Bangladesh",Sony Sports Ten 5
-http://103.99.249.139/sonyten3/index.m3u8
+#EXTINF:-1 tvg-name="Hindi Hits HD" group-title="Bangladesh",Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:-1 tvg-name="Star Sports 1 HD" group-title="Bangladesh",Star Sports 1 HD
+http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-name="Food Food" group-title="Bangladesh",Food Food
 http://103.175.73.12:8080/live/143/143_0.m3u8
-#EXTINF:-1 tvg-name="NAT GEO HD" group-title="Bangladesh",NAT GEO HD
-http://151.80.18.177:86/National_Geo_HD/index.m3u8
+#EXTINF:-1 tvg-name="Sony Sports Ten 5" group-title="Bangladesh",Sony Sports Ten 5
+http://103.99.249.139/sonyten3/index.m3u8
 #EXTINF:-1 tvg-name="9XM" group-title="Bangladesh",9XM
 http://103.175.73.12:8080/live/155/155_0.m3u8
 #EXTINF:-1 tvg-name="E24" group-title="Bangladesh",E24
 http://103.175.73.12:8080/live/159/159_0.m3u8
+#EXTINF:-1 tvg-name="Music India" group-title="Bangladesh",Music India
+http://103.175.73.12:8080/live/158/158_0.m3u8
+#EXTINF:-1 tvg-name="NAT GEO HD" group-title="Bangladesh",NAT GEO HD
+http://151.80.18.177:86/National_Geo_HD/index.m3u8
 #EXTINF:-1 tvg-name="Antarjal" group-title="Bangladesh",Antarjal
 http://103.225.94.27/Infobase/hdd-2/Bangla/Antarjal%20(2023)%201080p%20WEBDL.mp4
+#EXTINF:-1 tvg-name="NHK World" group-title="Bangladesh",NHK World
+http://103.175.73.12:8080/live/417/417_0.m3u8
 #EXTINF:-1 tvg-name="Tiger 3" group-title="Bangladesh",Tiger 3
 http://103.225.94.27/Infobase/hdd-3/hindi/Border%202%20(2026)%20Hindi%20720p%20HDTS%20x264%20%5bDDN%5d.mp4
+#EXTINF:-1 tvg-name="Mardaani 3" group-title="Bangladesh",Mardaani 3
+http://103.225.94.27/Infobase/hdd-3/hindi/Mardaani%203%20(2026)%201080p%20DVDRip.mp4
 #EXTINF:-1 tvg-name="SONY SAB" group-title="Bangladesh",SONY SAB
 http://206.212.244.71:8080/BRIDGITS@YAHOO.COM/BRIDGITS@2022/125809
 #EXTINF:-1 tvg-name="Test" group-title="Bangladesh",Test
 http://103.225.94.27/Infobase/hdd-3/Hindi%20Dub/Test%20(2025)%201080p%20WEBDL.mp4
-#EXTINF:-1 tvg-name="Music India" group-title="Bangladesh",Music India
-http://103.175.73.12:8080/live/158/158_0.m3u8
-#EXTINF:-1 tvg-name="Mardaani 3" group-title="Bangladesh",Mardaani 3
-http://103.225.94.27/Infobase/hdd-3/hindi/Mardaani%203%20(2026)%201080p%20DVDRip.mp4
-#EXTINF:-1 tvg-name="NHK World" group-title="Bangladesh",NHK World
-http://103.175.73.12:8080/live/417/417_0.m3u8
-#EXTINF:-1 tvg-name="Hindi Hits HD" group-title="Bangladesh",Hindi Hits HD
-http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-name="KIX" group-title="Bangladesh",KIX
 http://93.184.10.248/MBCBollywood/index.m3u8
-#EXTINF:-1 tvg-name="Histoire HD" group-title="Bangladesh",Histoire HD
-http://151.80.18.177:86/Histoire/index.m3u8
 #EXTINF:-1 tvg-name="Star Gold HD" group-title="Bangladesh",Star Gold HD
 http://103.99.249.139/stargold/index.m3u8
+#EXTINF:-1 tvg-name="Histoire HD" group-title="Bangladesh",Histoire HD
+http://151.80.18.177:86/Histoire/index.m3u8
 #EXTINF:-1 tvg-name="SONY MAX SD" group-title="Bangladesh",SONY MAX SD
 http://103.99.249.139/sonymax/index.m3u8
 #EXTINF:-1 tvg-id="HewadTV.af@SD" tvg-logo="https://i.imgur.com/cK2eWUZ.png" group-title="Afghanistan",Hewad TV (720p) [Not 24/7]
@@ -147,6 +151,18 @@ http://38.199.6.1:17001/play/a0pb/index.m3u8
 http://179.51.136.19:8000/play/a0q4/index.m3u8
 #EXTINF:-1 tvg-id="XTOTV.bo@SD" tvg-logo="https://i.imgur.com/MLwLlWl.png" http-referrer="https://www.sccbolivia.com/" group-title="Bolivia",XTOTV (1280p) [Not 24/7]
 http://190.104.15.135/0.ts
+#EXTINF:-1 tvg-id="Federalnatelevizija.ba@SD" tvg-logo="https://i.imgur.com/astdRrE.png" group-title="Bosnia and Herzegovina",Federalna televizija (720p)
+http://185.81.240.65:15000/udp/233.233.233.39:12000
+#EXTINF:-1 tvg-id="Hayat.ba@SD" tvg-logo="https://i.imgur.com/JugiLHM.png" group-title="Bosnia and Herzegovina",Hayat (1080p)
+http://158.180.39.89:5033/hayat.m3u8
+#EXTINF:-1 tvg-id="HayatFolk.ba@SD" tvg-logo="https://i.imgur.com/LteJva4.png" group-title="Bosnia and Herzegovina",Hayat Folk
+http://158.180.39.89:5033/folk.m3u8
+#EXTINF:-1 tvg-id="HayatMusic.ba@SD" tvg-logo="https://i.imgur.com/9p8q1yX.png" group-title="Bosnia and Herzegovina",Hayat Music (1080p)
+http://158.180.39.89:5033/music.m3u8
+#EXTINF:-1 tvg-id="HayatPlus.ba@SD" tvg-logo="https://i.imgur.com/NThsVzJ.png" group-title="Bosnia and Herzegovina",Hayat Plus (1080p)
+http://158.180.39.89:5033/hayatplus.m3u8
+#EXTINF:-1 tvg-id="Hayatovci.ba@SD" tvg-logo="https://i.imgur.com/eqd3kvW.png" group-title="Bosnia and Herzegovina",Hayatovci (1080p)
+http://158.180.39.89:5033/hayatovci.m3u8
 #EXTINF:-1 tvg-id="TVSLO1.si@HD" tvg-logo="https://i.imgur.com/E3YmlxF.png" group-title="Bosnia and Herzegovina",TV SLO 1 HD (1080p) [Not 24/7]
 http://23.88.66.93/SLO1/index.m3u8
 #EXTINF:-1 tvg-id="TVSlonExtra.ba@SD" tvg-logo="https://i.imgur.com/AohYgH1.png" group-title="Bosnia and Herzegovina",TV Slon Extra (1080p) [Not 24/7]
@@ -679,6 +695,8 @@ http://103.161.153.165:8000/play/a03k/index.m3u8
 http://15.235.144.106:14055
 #EXTINF:-1 tvg-id="SunNeo.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_NEO/images/LOGO_HD/image.png" group-title="India",Sun Neo (576p)
 http://163.61.227.29:8000/play/a04t/index.m3u8
+#EXTINF:-1 tvg-id="SunTV.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_TV/images/LOGO_HD/image.png" group-title="India",Sun TV HD (720p)
+http://15.235.144.106:14054
 #EXTINF:-1 tvg-id="SuperHungama.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUPER_HUNGAMA/images/LOGO_HD/image.png" group-title="India",Super Hungama (576p)
 http://103.161.153.165:8000/play/a05a/index.m3u8
 #EXTINF:-1 tvg-id="SuryaTV.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SURYA_HD/images/LOGO_HD/image.png" group-title="India",Surya TV (1080p)
@@ -1249,6 +1267,8 @@ http://69.64.57.208/tfm/playlist.m3u8
 http://69.64.57.208/walftv/playlist.m3u8
 #EXTINF:-1 tvg-id="24Kitchen.us@Serbia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/24Kitchen.png/960px-24Kitchen.png" group-title="Serbia",24Kitchen Serbia (720p)
 http://91.132.74.5:8000/play/a00a
+#EXTINF:-1 tvg-id="RTS3.rs@SD" tvg-logo="https://i.imgur.com/gxuGB4J.png" group-title="Serbia",RTS 3 (720p)
+http://185.81.240.65:15000/udp/233.233.233.36:12000
 #EXTINF:-1 tvg-id="TopTV.rs@SD" tvg-logo="https://i.imgur.com/UJqbKEC.png" group-title="Serbia",Top TV (1080p)
 http://82.165.71.58:8081/TopTV/live/playlist.m3u8
 #EXTINF:-1 tvg-id="BelleAmie.rs@SD" tvg-logo="https://i.imgur.com/tOlN5Rz.png" group-title="Serbia",TV Belle Amie (540p)
@@ -1317,8 +1337,8 @@ http://157.245.196.186/live/livestream.m3u8
 http://202.60.106.14:8080/214/playlist.m3u8
 #EXTINF:-1 tvg-id="AlcarriaTV.es@SD" tvg-logo="https://i.imgur.com/pzJAYan.png" group-title="Spain",Alcarria TV (576p) [Not 24/7]
 http://217.182.77.27/live/alcarriatv-livestream.m3u8
-#EXTINF:-1 tvg-id="Antena3Internacional.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Antena3Internacional2025.png" group-title="Spain",Antena 3 Internacional
-http://177.10.184.193:8000/play/a06a/index.m3u8
+#EXTINF:-1 tvg-id="Antena3Internacional.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Antena3Internacional2025.png" group-title="Spain",Antena 3 Internacional (1080p)
+http://187.190.55.136:5501/udp/225.1.1.101:5101
 #EXTINF:-1 tvg-id="Atrescine.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/960px-Atrescine_logo.svg.png" group-title="Spain",Atrescine (1080p)
 http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8
 #EXTINF:-1 tvg-id="AtreseriesInternacional.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/960px-Atreseries_2020_logo.svg.png" group-title="Spain",Atreseries Internacional (1080p)
@@ -1475,6 +1495,8 @@ http://123.175.209.52:9003/hls/4/index.m3u8
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 #EXTINF:-1 tvg-id="GolfChannelLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/960px-Golf_Channel_Logo_2018.png" group-title="International",Golf Channel Latin America
 http://181.114.57.246:4000/play/BHGDIhvdyuw/index.m3u8
+#EXTINF:-1 tvg-id="TelefeInternacional.ar@SD" tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="International",Telefe Internacional (1080p)
+http://187.190.55.136:5501/udp/225.1.1.240:5240
 #EXTINF:-1 tvg-id="TelehitMusica.mx@SD" tvg-logo="https://i.imgur.com/CofYjWh.png" group-title="International",Telehit Musica
 http://190.61.55.34:2401/play/a06t/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeLatinAmerica.fr@SD" tvg-logo="https://i.imgur.com/x8rjGhp.png" group-title="International",TV5Monde Latin America
