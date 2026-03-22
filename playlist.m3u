@@ -121,6 +121,8 @@ http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SL
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
 #EXTINF:-1 tvg-id="KapazTV.az@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/3/3e/K%C9%99p%C9%99z_TV_%282019-h.h.%29.png/500px-K%C9%99p%C9%99z_TV_%282019-h.h.%29.png" group-title="Azerbaijan",Kapaz TV
 http://85.132.78.122:8050/hls/stream/index.m3u8
+#EXTINF:-1 tvg-id="AnandaTV.bd@SD" tvg-logo="https://i.imgur.com/jkbo7Qe.png" group-title="Bangladesh",Ananda TV (480p)
+http://103.99.249.139/anandatv/index.m3u8
 #EXTINF:-1 tvg-id="DisneyInternationalHD.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_INTERNATIONAL_HD/images/LOGO_HD/image.png" group-title="Bangladesh",Disney International HD (1080p)
 http://116.90.120.151:8000/play/a0hp/index.m3u8
 #EXTINF:-1 tvg-id="JalshaMovies.in@HD" tvg-logo="https://i.imgur.com/25eWjX2.png" group-title="Bangladesh",Jalsha Movies HD (1080p)
@@ -663,6 +665,8 @@ http://45.148.145.57/IN_FOODFOOD/index.m3u8
 http://103.121.6.5:8000/play/a05i/index.m3u8
 #EXTINF:-1 tvg-id="Mayyazhi.in@SD" tvg-logo="https://i.imgur.com/E3WYWF5.jpg" group-title="India",Mayyazhi (720p) [Not 24/7]
 http://131.153.22.8:1935/MAYYAZHI/live/playlist.m3u8
+#EXTINF:-1 tvg-id="MNX.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX/images/LOGO_HD/image.png" group-title="India",MNX (576p)
+http://103.161.153.165:8000/play/a059/index.m3u8
 #EXTINF:-1 tvg-id="MoviesNowPlus.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNSYMPLUS/images/LOGO_HD/image.png" group-title="India",Movies Now + (1080p)
 http://116.90.120.151:8000/play/a0i4/index.m3u8
 #EXTINF:-1 tvg-id="MoviesNow.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MOVIES_NOW/images/LOGO_HD/image.png" group-title="India",Movies Now HD (1080p)
@@ -675,8 +679,8 @@ http://116.90.120.151:8000/play/a0i3/index.m3u8
 http://116.90.120.151:8000/play/a0is/index.m3u8
 #EXTINF:-1 tvg-id="ShowBox.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHOWBOX/images/LOGO_HD/image.png" group-title="India",ShowBox (576p)
 http://116.90.120.151:8000/play/a0k2/index.m3u8
-#EXTINF:-1 tvg-id="SonyAath.in@SD" tvg-logo="https://i.imgur.com/q4AwVq9.png" group-title="India",Sony Aath (576p)
-http://103.229.254.25:7001/play/a07a/index.m3u8
+#EXTINF:-1 tvg-id="SonyAath.in@SD" tvg-logo="https://i.imgur.com/q4AwVq9.png" group-title="India",Sony Aath (720p)
+http://103.161.153.165:8000/play/sonyatth/index.m3u8
 #EXTINF:-1 tvg-id="SonyBBCEarth.in@HD" tvg-logo="https://i.imgur.com/XVUGLxa.png" group-title="India",Sony BBC Earth HD (1080p)
 http://116.90.120.151:8000/play/a0j1/index.m3u8
 #EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png?lock=720x540" group-title="India",Sony Entertainment Television HD (1080p)
@@ -903,8 +907,6 @@ http://212.42.111.152:8080/hls/manas.m3u8
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVXXI.lv@SD" tvg-logo="https://i.imgur.com/Fja4bWt.png" group-title="Latvia",TV XXI
 http://31.148.48.15/TV_XXI/index.m3u8
-#EXTINF:-1 tvg-id="AghaniAghaniTV.lb@SD" tvg-logo="https://i.imgur.com/o6HSfNg.png" group-title="Lebanon",Aghani Aghani TV (720p)
-http://77.42.253.43:9090/stream5/AGHANITV.m3u8
 #EXTINF:-1 tvg-id="AlIttihadTV.lb@SD" tvg-logo="https://i.imgur.com/QMUjPXx.png" group-title="Lebanon",Al Ittihad (552p) [Not 24/7]
 http://185.105.4.151:8080/_defapp_/ittihad/index.m3u8
 #EXTINF:-1 tvg-id="AlJadeed.lb@SD" tvg-logo="https://i.imgur.com/CfxR8o3.png" group-title="Lebanon",Al Jadeed (1080p)
@@ -1111,6 +1113,8 @@ http://51.222.9.192:3589/stream/play.m3u8
 http://159.203.148.226/live/farra.m3u8
 #EXTINF:-1 tvg-id="CCTN47.ph@SD" tvg-logo="https://i.imgur.com/IFpAmvW.png" group-title="Philippines",CCTN 47 (1080p) [Not 24/7]
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
+#EXTINF:-1 tvg-id="13Ulica.pl@SD" tvg-logo="https://i.imgur.com/0gCNnLq.png" group-title="Poland",13 Ulica
+http://116.90.120.151:8000/play/a0l4/index.m3u8
 #EXTINF:-1 tvg-id="AntenaHD.pl@SD" tvg-logo="https://i.imgur.com/obwYQZC.png" group-title="Poland",Antena HD
 http://78.130.250.2:8023/play/a03o/index.m3u8
 #EXTINF:-1 tvg-id="dlaCiebietv.pl@SD" tvg-logo="https://i.imgur.com/Tf32BJa.png" group-title="Poland",dlaCiebie.tv (1080p) [Not 24/7]
@@ -1121,6 +1125,8 @@ http://116.90.120.151:8000/play/a0kz/index.m3u8
 http://78.130.250.2:8023/play/a05t/index.m3u8
 #EXTINF:-1 tvg-id="SciFi.pl@SD" tvg-logo="https://i.imgur.com/QEqai8a.png" group-title="Poland",Sci Fi (1080p)
 http://116.90.120.151:8000/play/a0l0/index.m3u8
+#EXTINF:-1 tvg-id="SzlagierTV.pl@SD" tvg-logo="https://i.imgur.com/VQk19Ng.png" group-title="Poland",Szlagier TV
+http://78.130.250.2:8023/play/a03t/index.m3u8
 #EXTINF:-1 tvg-id="Tele5.pl@SD" tvg-logo="https://i.imgur.com/36ZNsIL.png" group-title="Poland",Tele5
 http://78.130.250.2:8023/play/a05s/index.m3u8
 #EXTINF:-1 tvg-id="TelewizjaTorun.pl@SD" tvg-logo="https://i.imgur.com/UNwzRHN.png" group-title="Poland",Telewizja Toruń (1080p) [Not 24/7]
