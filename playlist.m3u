@@ -15,30 +15,26 @@ http://103.175.73.12:8080/live/256/256_0.m3u8
 http://103.175.73.12:8080/live/270/270_0.m3u8
 #EXTINF:-1 tvg-name="Goldmines Bollywood" group-title="Bangladesh",Goldmines Bollywood
 http://103.175.73.12:8080/live/52/52_0.m3u8
-#EXTINF:-1 tvg-name="Hindi Hits HD" group-title="Bangladesh",Hindi Hits HD
-http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-name="Star Sports 1 HD" group-title="Bangladesh",Star Sports 1 HD
 http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-name="Food Food" group-title="Bangladesh",Food Food
 http://103.175.73.12:8080/live/143/143_0.m3u8
 #EXTINF:-1 tvg-name="9XM" group-title="Bangladesh",9XM
 http://103.175.73.12:8080/live/155/155_0.m3u8
+#EXTINF:-1 tvg-name="Hindi Hits HD" group-title="Bangladesh",Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:-1 tvg-name="NHK World" group-title="Bangladesh",NHK World
+http://103.175.73.12:8080/live/417/417_0.m3u8
 #EXTINF:-1 tvg-name="E24" group-title="Bangladesh",E24
 http://103.175.73.12:8080/live/159/159_0.m3u8
 #EXTINF:-1 tvg-name="Music India" group-title="Bangladesh",Music India
 http://103.175.73.12:8080/live/158/158_0.m3u8
-#EXTINF:-1 tvg-name="Antarjal" group-title="Bangladesh",Antarjal
-http://103.225.94.27/Infobase/hdd-2/Bangla/Antarjal%20(2023)%201080p%20WEBDL.mp4
-#EXTINF:-1 tvg-name="Mardaani 3" group-title="Bangladesh",Mardaani 3
-http://103.225.94.27/Infobase/hdd-3/hindi/Mardaani%203%20(2026)%201080p%20DVDRip.mp4
 #EXTINF:-1 tvg-name="Test" group-title="Bangladesh",Test
 http://103.225.94.27/Infobase/hdd-3/Hindi%20Dub/Test%20(2025)%201080p%20WEBDL.mp4
-#EXTINF:-1 tvg-name="NHK World" group-title="Bangladesh",NHK World
-http://103.175.73.12:8080/live/417/417_0.m3u8
+#EXTINF:-1 tvg-name="Mardaani 3" group-title="Bangladesh",Mardaani 3
+http://103.225.94.27/Infobase/hdd-3/hindi/Mardaani%203%20(2026)%201080p%20DVDRip.mp4
 #EXTINF:-1 tvg-name="MBC tv" group-title="Bangladesh",MBC tv
 http://93.184.10.248/MBCBollywood/index.m3u8
-#EXTINF:-1 tvg-name="Live Sports-5" group-title="Bangladesh",Live Sports-5
-http://151.80.18.177:86/Eurosport_HD/index.m3u8
 #EXTINF:-1 tvg-id="HewadTV.af@SD" tvg-logo="https://i.imgur.com/cK2eWUZ.png" group-title="Afghanistan",Hewad TV (720p) [Not 24/7]
 http://51.210.199.58/hls/stream.m3u8
 #EXTINF:-1 tvg-id="RTSH1.al@SD" tvg-logo="https://i.imgur.com/Y8wotC4.png" group-title="Albania",RTSH 1 (1080p)
@@ -75,8 +71,6 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/CronicaTv.play
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/deportv_720.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Argentina",Disney Channel Latin America (1080p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-32.playlist.m3u8
-#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@SouthHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Argentina",Disney Jr. Latin America South HD (1080p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-35.playlist.m3u8
 #EXTINF:-1 tvg-id="ELatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png" group-title="Argentina",E! Latin America (720p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-14_720.m3u8
 #EXTINF:-1 tvg-id="ElGourmet.ar@South" tvg-logo="https://i.imgur.com/ByMyRI9.png" group-title="Argentina",El Gourmet South (720p)
@@ -161,8 +155,6 @@ http://103.72.101.252:8080/live/625.m3u8
 http://103.229.254.25:7001/play/a070/index.m3u8
 #EXTINF:-1 tvg-id="LaTrois.be@SD" tvg-logo="https://i.imgur.com/jMs4h9F.png" group-title="Belgium",La Trois
 http://103.184.64.85:12000/stream/allchannel/rtbflatrois/master.m3u8
-#EXTINF:-1 tvg-id="Tipik.be@SD" tvg-logo="https://i.imgur.com/LKLjnrp.png" group-title="Belgium",Tipik
-http://103.184.64.85:12000/stream/allchannel/rtbftipik/master.m3u8
 #EXTINF:-1 tvg-id="ORTBTV.bj@SD" tvg-logo="https://i.imgur.com/o6zAR88.png" group-title="Benin",ORTB TV (720p)
 http://69.64.57.208/ortb/playlist.m3u8
 #EXTINF:-1 tvg-id="AmericaInternacional.ar@SD" tvg-logo="https://i.imgur.com/mqUqMU6.png" group-title="Bolivia",America Internacional (720p)
@@ -823,8 +815,6 @@ http://103.253.18.58:8000/play/a00m
 http://103.253.18.58:8000/play/a03o
 #EXTINF:-1 tvg-id="StarSports2Hindi.in@HD" tvg-logo="https://i.imgur.com/kHerF19.png" group-title="India",Star Sports 2 Hindi HD (1080p)
 http://103.157.248.140:8000/play/a01m/index.m3u8
-#EXTINF:-1 tvg-id="StarUtsavMovies.in@SD" tvg-logo="https://i.imgur.com/k5QHfH2.png" group-title="India",Star Utsav Movies (576p)
-http://116.90.120.151:8000/play/a0ka/index.m3u8
 #EXTINF:-1 tvg-id="StarPlus.in@HD" tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="India",StarPlus HD (1080p)
 http://103.229.254.25:7001/play/a09z/index.m3u8
 #EXTINF:-1 tvg-id="SwayamPrabha1.in@SD" tvg-logo="https://i.imgur.com/og6ZGzP.png" group-title="India",Swayam Prabha 1 (576p)
@@ -1105,12 +1095,6 @@ http://69.64.57.208/ortm/playlist.m3u8
 http://69.64.57.208/tm2/playlist.m3u8
 #EXTINF:-1 tvg-id="TM1TV.ml@SD" tvg-logo="https://i.imgur.com/83BgaBa.png" group-title="Mali",TM1 (360p) [Not 24/7]
 http://69.64.57.208/tm1/playlist.m3u8
-#EXTINF:-1 tvg-id="NET.mt@SD" tvg-logo="https://i.imgur.com/K4Uve1n.png" group-title="Malta",NET [Geo-blocked]
-http://80.79.6.221:25461/smash/public/22
-#EXTINF:-1 tvg-id="ParliamentofMalta.mt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Logo_of_the_Parliament_of_Malta.png" group-title="Malta",Parliament TV [Geo-blocked]
-http://80.79.6.221:25461/smash/public/23
-#EXTINF:-1 tvg-id="TVM.mt@SD" tvg-logo="https://i.imgur.com/V0iMsED.png" group-title="Malta",TVM [Geo-blocked]
-http://80.79.6.221:25461/smash/public/19
 #EXTINF:-1 tvg-id="TVMnewsPlus.mt@SD" tvg-logo="https://i.imgur.com/CFcst4g.png" group-title="Malta",TVM News+ [Geo-blocked]
 http://80.79.6.221:25461/smash/public/20
 #EXTINF:-1 tvg-id="BaltiTV.md@SD" tvg-logo="https://i.imgur.com/S1vEqZp.png" group-title="Moldova",Bălţi TV (1080p) [Geo-blocked]
@@ -1247,6 +1231,8 @@ http://51.222.9.192:3589/stream/play.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/6.m3u8
 #EXTINF:-1 tvg-id="ABCTVParaguay.py@SD" tvg-logo="https://i.imgur.com/OqfBMGy.png" http-referrer="https://www.abc.com.py/" group-title="Paraguay",ABC-TV Paraguay
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
+#EXTINF:-1 tvg-id="AmericaParaguay.py@SD" tvg-logo="https://i.imgur.com/rCEu3fM.png" group-title="Paraguay",America Paraguay
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8
 #EXTINF:-1 tvg-id="FarraPlay.py@SD" tvg-logo="https://i.imgur.com/bXWzstH.png" group-title="Paraguay",Farra Play (720p) [Not 24/7]
 http://159.203.148.226/live/farra.m3u8
 #EXTINF:-1 tvg-id="ParaguayTV.py@SD" tvg-logo="https://i.imgur.com/fkK7i8g.png" group-title="Paraguay",Paraguay TV
@@ -1259,10 +1245,14 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1596.m3u8
 http://45.170.130.224:8000/play/a04i/index.m3u8
 #EXTINF:-1 tvg-id="Trece.py@SD" tvg-logo="https://i.imgur.com/cgIv5QK.png" http-referrer="https://trece.com.py/" group-title="Paraguay",Trece (1080p)
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8
+#EXTINF:-1 tvg-id="Tropicalia939FM.py@SD" tvg-logo="https://i.imgur.com/oMML5Ue.png" group-title="Paraguay",Tropicalia 93.9 FM (1280p)
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/67.m3u8
 #EXTINF:-1 tvg-id="TVCamara.py@SD" tvg-logo="https://i.imgur.com/Mfypr0t.png" group-title="Paraguay",TV Camara (1080p)
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/119.m3u8
 #EXTINF:-1 tvg-id="Unicanal.py@SD" tvg-logo="https://i.imgur.com/cgTD2TW.png" http-referrer="https://unicanal.com.py/" group-title="Paraguay",Unicanal (1080p)
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8
+#EXTINF:-1 tvg-id="VenusMedia.py@SD" tvg-logo="https://i.imgur.com/XwmUbfp.png" group-title="Paraguay",Venus Media (1280p) [Not 24/7]
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/66.m3u8
 #EXTINF:-1 tvg-id="CCTN47.ph@SD" tvg-logo="https://i.imgur.com/IFpAmvW.png" group-title="Philippines",CCTN 47 (1080p) [Not 24/7]
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 #EXTINF:-1 tvg-id="AntenaHD.pl@SD" tvg-logo="https://i.imgur.com/obwYQZC.png" group-title="Poland",Antena HD
