@@ -9,42 +9,40 @@ http://66.45.232.131:9994/;stream.mp3
 http://115.187.41.216:8080/hls/digitalfashion/index.m3u8
 #EXTINF:-1 tvg-name="BD VS NZ" group-title="Bangladesh",BD VS NZ
 http://27.124.71.27/T-Sports/index.m3u8
+#EXTINF:-1 tvg-name="Zee Anmol TV" group-title="Bangladesh",Zee Anmol TV
+http://103.175.73.12:8080/live/256/256_0.m3u8
 #EXTINF:-1 tvg-name="Dhoom Music" group-title="Bangladesh",Dhoom Music
 http://103.175.73.12:8080/live/378/378_0.m3u8
 #EXTINF:-1 tvg-name="Big Magic" group-title="Bangladesh",Big Magic
 http://103.175.73.12:8080/live/13/13_0.m3u8
-#EXTINF:-1 tvg-name="Zee Anmol TV" group-title="Bangladesh",Zee Anmol TV
-http://103.175.73.12:8080/live/256/256_0.m3u8
 #EXTINF:-1 tvg-name="Zee Action" group-title="Bangladesh",Zee Action
 http://103.175.73.12:8080/live/270/270_0.m3u8
-#EXTINF:-1 tvg-name="Goldmines Bollywood" group-title="Bangladesh",Goldmines Bollywood
-http://103.175.73.12:8080/live/52/52_0.m3u8
-#EXTINF:-1 tvg-name="Hindi Hits HD" group-title="Bangladesh",Hindi Hits HD
-http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-name="Star Sports 1 HD" group-title="Bangladesh",Star Sports 1 HD
 http://41.205.93.154/STARSPORTS1/index.m3u8
-#EXTINF:-1 tvg-name="Food Food" group-title="Bangladesh",Food Food
-http://103.175.73.12:8080/live/143/143_0.m3u8
-#EXTINF:-1 tvg-name="Nat Geo HD" group-title="Bangladesh",Nat Geo HD
-http://202.70.146.135:8000/play/a05o/index.m3u8
-#EXTINF:-1 tvg-name="9XM" group-title="Bangladesh",9XM
-http://103.175.73.12:8080/live/155/155_0.m3u8
+#EXTINF:-1 tvg-name="Hindi Hits HD" group-title="Bangladesh",Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-name="E24" group-title="Bangladesh",E24
 http://103.175.73.12:8080/live/159/159_0.m3u8
+#EXTINF:-1 tvg-name="9XM" group-title="Bangladesh",9XM
+http://103.175.73.12:8080/live/155/155_0.m3u8
 #EXTINF:-1 tvg-name="Music India" group-title="Bangladesh",Music India
 http://103.175.73.12:8080/live/158/158_0.m3u8
-#EXTINF:-1 tvg-name="NHK World" group-title="Bangladesh",NHK World
-http://103.175.73.12:8080/live/417/417_0.m3u8
+#EXTINF:-1 tvg-name="Antarjal" group-title="Bangladesh",Antarjal
+http://103.225.94.27/Infobase/hdd-2/Bangla/Antarjal%20(2023)%201080p%20WEBDL.mp4
 #EXTINF:-1 tvg-name="Mardaani 3" group-title="Bangladesh",Mardaani 3
 http://103.225.94.27/Infobase/hdd-3/hindi/Mardaani%203%20(2026)%201080p%20DVDRip.mp4
 #EXTINF:-1 tvg-name="Test" group-title="Bangladesh",Test
 http://103.225.94.27/Infobase/hdd-3/Hindi%20Dub/Test%20(2025)%201080p%20WEBDL.mp4
-#EXTINF:-1 tvg-name="Live Sports-4" group-title="Bangladesh",Live Sports-4
-http://151.80.18.177:86/Eurosport_HD/index.m3u8
 #EXTINF:-1 tvg-name="MBC tv" group-title="Bangladesh",MBC tv
 http://93.184.10.248/MBCBollywood/index.m3u8
+#EXTINF:-1 tvg-name="Live Sports-4" group-title="Bangladesh",Live Sports-4
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
 #EXTINF:-1 tvg-name="HBO" group-title="Bangladesh",HBO
 http://103.213.31.111/HBOHD/index.m3u8
+#EXTINF:-1 tvg-name="Goldmines Bollywood" group-title="Bangladesh",Goldmines Bollywood
+http://103.175.73.12:8080/live/52/52_0.m3u8
+#EXTINF:-1 tvg-name="NHK World" group-title="Bangladesh",NHK World
+http://103.175.73.12:8080/live/417/417_0.m3u8
 #EXTINF:-1 tvg-id="HewadTV.af@SD" tvg-logo="https://i.imgur.com/cK2eWUZ.png" group-title="Afghanistan",Hewad TV (720p) [Not 24/7]
 http://51.210.199.58/hls/stream.m3u8
 #EXTINF:-1 tvg-id="RTSH1.al@SD" tvg-logo="https://i.imgur.com/Y8wotC4.png" group-title="Albania",RTSH 1 (1080p)
@@ -533,8 +531,6 @@ http://79.232.88.203:9981/stream/channelid/81078517
 http://79.232.88.203:9981/stream/channelid/1038721938
 #EXTINF:-1 tvg-id="Hope4LifeTV.us@SD" tvg-logo="https://i.imgur.com/p24tAjs.jpg" group-title="Ghana",Hope4Life TV (720p)
 http://144.217.14.88/hls/hope4life.m3u8
-#EXTINF:-1 tvg-id="ANT1.gr@HD" tvg-logo="https://i.imgur.com/ItxKvVS.png" group-title="Greece",ANT1 HD (1080p)
-http://31.121.110.30:4000/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="DELTATV.gr@SD" tvg-logo="https://i.ibb.co/Nt79gnx/319386123-3050873715211949-6691293256713061450-n-1024x752.png" group-title="Greece",DELTA TV (720p)
 http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TigoSports.gt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="Guatemala",Tigo Sports (1080p)
@@ -1219,8 +1215,6 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8
 #EXTINF:-1 tvg-id="FarraPlay.py@SD" tvg-logo="https://i.imgur.com/bXWzstH.png" group-title="Paraguay",Farra Play (720p) [Not 24/7]
 http://159.203.148.226/live/farra.m3u8
-#EXTINF:-1 tvg-id="ParaguayTV.py@SD" tvg-logo="https://i.imgur.com/fkK7i8g.png" group-title="Paraguay",Paraguay TV
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/118.m3u8
 #EXTINF:-1 tvg-id="Paravision.py@SD" tvg-logo="https://i.imgur.com/yd9Dw2G.png" http-referrer="https://www.paravision.com.py/" group-title="Paraguay",Paravision
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/120.m3u8
 #EXTINF:-1 tvg-id="SURTVItapua.py@SD" tvg-logo="https://i.imgur.com/ltJQvZd.png" group-title="Paraguay",SUR TV Itapua
@@ -1235,8 +1229,6 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/67.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/119.m3u8
 #EXTINF:-1 tvg-id="Unicanal.py@SD" tvg-logo="https://i.imgur.com/cgTD2TW.png" http-referrer="https://unicanal.com.py/" group-title="Paraguay",Unicanal (1080p)
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8
-#EXTINF:-1 tvg-id="VenusMedia.py@SD" tvg-logo="https://i.imgur.com/XwmUbfp.png" group-title="Paraguay",Venus Media (1280p) [Not 24/7]
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/66.m3u8
 #EXTINF:-1 tvg-id="CCTN47.ph@SD" tvg-logo="https://i.imgur.com/IFpAmvW.png" group-title="Philippines",CCTN 47 (1080p) [Not 24/7]
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 #EXTINF:-1 tvg-id="AntenaHD.pl@SD" tvg-logo="https://i.imgur.com/obwYQZC.png" group-title="Poland",Antena HD
