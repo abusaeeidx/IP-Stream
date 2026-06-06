@@ -1,18 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Bangladesh",Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 tvg-name="Willow Extra Live" group-title="Bangladesh",Willow Extra Live
-http://27.124.71.27/Willow_Extra/index.m3u8
+#EXTINF:-1 tvg-name="T Sports HD" group-title="Bangladesh",T Sports HD
+http://27.124.71.27/T-Sports/index.m3u8
 #EXTINF:-1 tvg-name="Al Quran Radio" group-title="Bangladesh",Al Quran Radio
 http://66.45.232.131:9994/;stream.mp3
+#EXTINF:-1 tvg-name="Digital Fashion" group-title="Bangladesh",Digital Fashion
+http://115.187.41.216:8080/hls/digitalfashion/index.m3u8
+#EXTINF:-1 tvg-name="Live Sports" group-title="Bangladesh",Live Sports
+http://27.124.71.27/Willow_Extra/index.m3u8
 #EXTINF:-1 tvg-name="Dhoom Music" group-title="Bangladesh",Dhoom Music
 http://103.175.73.12:8080/live/378/378_0.m3u8
-#EXTINF:-1 tvg-name="Zee Anmol TV" group-title="Bangladesh",Zee Anmol TV
-http://103.175.73.12:8080/live/256/256_0.m3u8
 #EXTINF:-1 tvg-name="Big Magic" group-title="Bangladesh",Big Magic
 http://103.175.73.12:8080/live/13/13_0.m3u8
-#EXTINF:-1 tvg-name="Zee Action" group-title="Bangladesh",Zee Action
-http://103.175.73.12:8080/live/270/270_0.m3u8
+#EXTINF:-1 tvg-name="Zee Anmol TV" group-title="Bangladesh",Zee Anmol TV
+http://103.175.73.12:8080/live/256/256_0.m3u8
 #EXTINF:-1 tvg-name="Goldmines Bollywood" group-title="Bangladesh",Goldmines Bollywood
 http://103.175.73.12:8080/live/52/52_0.m3u8
 #EXTINF:-1 tvg-name="Star Sports 1 HD" group-title="Bangladesh",Star Sports 1 HD
@@ -21,20 +23,20 @@ http://41.205.93.154/STARSPORTS1/index.m3u8
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-name="Food Food" group-title="Bangladesh",Food Food
 http://103.175.73.12:8080/live/143/143_0.m3u8
-#EXTINF:-1 tvg-name="9XM" group-title="Bangladesh",9XM
-http://103.175.73.12:8080/live/155/155_0.m3u8
 #EXTINF:-1 tvg-name="E24" group-title="Bangladesh",E24
 http://103.175.73.12:8080/live/159/159_0.m3u8
+#EXTINF:-1 tvg-name="9XM" group-title="Bangladesh",9XM
+http://103.175.73.12:8080/live/155/155_0.m3u8
 #EXTINF:-1 tvg-name="Music India" group-title="Bangladesh",Music India
 http://103.175.73.12:8080/live/158/158_0.m3u8
 #EXTINF:-1 tvg-name="Antarjal" group-title="Bangladesh",Antarjal
 http://103.225.94.27/Infobase/hdd-2/Bangla/Antarjal%20(2023)%201080p%20WEBDL.mp4
 #EXTINF:-1 tvg-name="NHK World" group-title="Bangladesh",NHK World
 http://103.175.73.12:8080/live/417/417_0.m3u8
-#EXTINF:-1 tvg-name="Mardaani 3" group-title="Bangladesh",Mardaani 3
-http://103.225.94.27/Infobase/hdd-3/hindi/Mardaani%203%20(2026)%201080p%20DVDRip.mp4
 #EXTINF:-1 tvg-name="Test" group-title="Bangladesh",Test
 http://103.225.94.27/Infobase/hdd-3/Hindi%20Dub/Test%20(2025)%201080p%20WEBDL.mp4
+#EXTINF:-1 tvg-name="Mardaani 3" group-title="Bangladesh",Mardaani 3
+http://103.225.94.27/Infobase/hdd-3/hindi/Mardaani%203%20(2026)%201080p%20DVDRip.mp4
 #EXTINF:-1 tvg-name="&Flix HD" group-title="Bangladesh",&Flix HD
 http://212.102.34.8:9080/AndFlixHD/video.m3u8
 #EXTINF:-1 tvg-name="Live Sports-4" group-title="Bangladesh",Live Sports-4
@@ -258,19 +260,13 @@ http://61.173.144.157:9901/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=
 #EXTINF:-1 tvg-id="STVNewsandGeneral.cn@SD" tvg-logo="https://skin.kankanews.com/logo/logo180x80.png" group-title="China",STV News and General
 http://61.173.144.157:9901/tsfile/live/1000_1.m3u8?authid=0&key=txiptv&playlive=1
 #EXTINF:-1 tvg-id="XinjiangTV2.cn@SD" tvg-logo="https://i.imgur.com/GXFLqxx.png" group-title="China",Xinjiang TV 2
-http://49.113.179.174:4022/udp/238.125.3.175:5140
+http://110.153.180.106:55555/out_3/index.m3u8
 #EXTINF:-1 tvg-id="XinjiangTV3.cn@SD" tvg-logo="https://i.imgur.com/l8S5qQB.png" group-title="China",Xinjiang TV 3
-http://49.113.179.174:4022/udp/238.125.7.147:5140
+http://110.153.180.106:55555/out_2/index.m3u8
 #EXTINF:-1 tvg-id="XinjiangTV5.cn@SD" tvg-logo="https://i.imgur.com/PARupWK.png" group-title="China",Xinjiang TV 5
-http://49.113.179.174:4022/udp/238.125.7.149:5140
+http://106.124.91.222:9901/tsfile/live/21216_1.m3u8?authid=0&key=txiptv&playlive=0
 #EXTINF:-1 tvg-id="XinjiangTV8.cn@SD" tvg-logo="https://i.imgur.com/JJw1Ndc.png" group-title="China",Xinjiang TV 8
-http://49.113.179.174:4022/udp/238.125.3.181:5140
-#EXTINF:-1 tvg-id="XinjiangTV9.cn@SD" tvg-logo="https://i.imgur.com/YQYumoR.png" group-title="China",Xinjiang TV 9
-http://49.113.179.174:4022/udp/238.125.7.153:5140
-#EXTINF:-1 tvg-id="XinjiangTV12.cn@SD" tvg-logo="https://i.imgur.com/ZdqKVeE.png" group-title="China",Xinjiang TV 12
-http://49.113.179.174:4022/udp/238.125.3.185:5140
-#EXTINF:-1 tvg-id="YicaiTV.cn@SD" tvg-logo="https://i.imgur.com/OLj4mKK.png" group-title="China",Yicai TV
-http://49.113.179.174:4022/udp/238.125.0.165:5140
+http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1
 #EXTINF:-1 tvg-id="DragonTV.cn@SD" tvg-logo="https://i.imgur.com/WqM6xnF.png" group-title="China",东方卫视 (2160p)
 http://118.81.195.79:9003/hls/23/index.m3u8
 #EXTINF:-1 tvg-id="YouManCartoonChannel.cn@SD" tvg-logo="https://i.imgur.com/GZInf2W.png" group-title="China",优漫卡通 (576p)
@@ -959,6 +955,8 @@ http://69.64.57.208/la3/index.m3u8
 http://69.64.57.208/albayanetv/index.m3u8
 #EXTINF:-1 tvg-id="Dlife.jp@SD" tvg-logo="" group-title="Japan",Dlife (1080p)
 https://43.100.9.67/api/streams/live/cs312/1080p/mpegts
+#EXTINF:-1 tvg-id="GolfNetwork.jp@SD" tvg-logo="https://i.imgur.com/s6lmfXF.png" group-title="Japan",Golf Network (540p)
+http://202.60.106.14:8080/1335/playlist.m3u8
 #EXTINF:-1 tvg-id="AlerthAlnabawiChannel.jo@SD" tvg-logo="https://i.imgur.com/iYibJxK.png" group-title="Jordan",Alerth Alnabawi Channel (576p)
 http://82.212.74.2:8000/live/7307.m3u8
 #EXTINF:-1 tvg-id="JordanSport.jo@SD" tvg-logo="https://i.imgur.com/2EmrZPQ.png" group-title="Jordan",Jordan Sport (1080p)
