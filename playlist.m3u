@@ -31,22 +31,22 @@ http://103.175.73.12:8080/live/159/159_0.m3u8
 http://103.175.73.12:8080/live/158/158_0.m3u8
 #EXTINF:-1 tvg-name="Antarjal" group-title="Bangladesh",Antarjal
 http://103.225.94.27/Infobase/hdd-2/Bangla/Antarjal%20(2023)%201080p%20WEBDL.mp4
+#EXTINF:-1 tvg-name="NHK World" group-title="Bangladesh",NHK World
+http://103.175.73.12:8080/live/417/417_0.m3u8
 #EXTINF:-1 tvg-name="Mardaani 3" group-title="Bangladesh",Mardaani 3
 http://103.225.94.27/Infobase/hdd-3/hindi/Mardaani%203%20(2026)%201080p%20DVDRip.mp4
 #EXTINF:-1 tvg-name="Test" group-title="Bangladesh",Test
 http://103.225.94.27/Infobase/hdd-3/Hindi%20Dub/Test%20(2025)%201080p%20WEBDL.mp4
-#EXTINF:-1 tvg-name="NHK World" group-title="Bangladesh",NHK World
-http://103.175.73.12:8080/live/417/417_0.m3u8
 #EXTINF:-1 tvg-name="NAGORIK TV HD" group-title="Bangladesh",NAGORIK TV HD
 http://103.204.43.87:8080/live/1/1/282.m3u8
 #EXTINF:-1 tvg-name="Jalsha Movies HD" group-title="Bangladesh",Jalsha Movies HD
 http://103.204.43.87:8080/live/1/1/245.m3u8
-#EXTINF:-1 tvg-name="Star Gold-2 HD" group-title="Bangladesh",Star Gold-2 HD
-http://103.204.43.87:8080/live/1/1/246.m3u8
 #EXTINF:-1 tvg-name="&Flix HD" group-title="Bangladesh",&Flix HD
 http://212.102.34.8:9080/AndFlixHD/video.m3u8
 #EXTINF:-1 tvg-name="MBC tv" group-title="Bangladesh",MBC tv
 http://93.184.10.248/MBCBollywood/index.m3u8
+#EXTINF:-1 tvg-name="Star Gold-2 HD" group-title="Bangladesh",Star Gold-2 HD
+http://103.204.43.87:8080/live/1/1/246.m3u8
 #EXTINF:-1 tvg-name="Sony Pix" group-title="Bangladesh",Sony Pix
 http://103.204.43.87:8080/live/1/1/260.m3u8
 #EXTINF:-1 tvg-name="Live Sports-2" group-title="Bangladesh",Live Sports-2
