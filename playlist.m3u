@@ -7,32 +7,30 @@ http://145.239.5.177/557a/index.m3u8
 http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="BTV" group-title="Bangladesh",BTV
 http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Digital Fashion" group-title="Bangladesh",Digital Fashion
-http://115.187.41.216:8080/hls/digitalfashion/index.m3u8
 #EXTINF:-1 tvg-name="Al Quran Radio" group-title="Bangladesh",Al Quran Radio
 http://66.45.232.131:9994/;stream.mp3
+#EXTINF:-1 tvg-name="Digital Fashion" group-title="Bangladesh",Digital Fashion
+http://115.187.41.216:8080/hls/digitalfashion/index.m3u8
 #EXTINF:-1 tvg-name="Channel 7" group-title="Bangladesh",Channel 7
 http://103.13.193.194:8082/T-SPORTS-HD/video.m3u8?token=RusriRM-L73G33
 #EXTINF:-1 tvg-name="Live Sports" group-title="Bangladesh",Live Sports
 http://103.165.93.31:8095/tsports/video.m3u8
 #EXTINF:-1 tvg-name="Live Sports" group-title="Bangladesh",Live Sports
 http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Big Magic" group-title="Bangladesh",Big Magic
+http://103.175.73.12:8080/live/13/13_0.m3u8
 #EXTINF:-1 tvg-name="Zee Anmol TV" group-title="Bangladesh",Zee Anmol TV
 http://103.175.73.12:8080/live/256/256_0.m3u8
 #EXTINF:-1 tvg-name="Zee Action" group-title="Bangladesh",Zee Action
 http://103.175.73.12:8080/live/270/270_0.m3u8
 #EXTINF:-1 tvg-name="Goldmines Bollywood" group-title="Bangladesh",Goldmines Bollywood
 http://103.175.73.12:8080/live/52/52_0.m3u8
-#EXTINF:-1 tvg-name="Hindi Hits HD" group-title="Bangladesh",Hindi Hits HD
-http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-name="Star Sports 1 HD" group-title="Bangladesh",Star Sports 1 HD
 http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1 tvg-name="Hindi Hits HD" group-title="Bangladesh",Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-name="Food Food" group-title="Bangladesh",Food Food
 http://103.175.73.12:8080/live/143/143_0.m3u8
-#EXTINF:-1 tvg-name="Colors Infinity HD" group-title="Bangladesh",Colors Infinity HD
-http://66.102.126.10:8000/play/a014/index.m3u8
-#EXTINF:-1 tvg-name="Nursary Rhymes" group-title="Bangladesh",Nursary Rhymes
-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-name="9XM" group-title="Bangladesh",9XM
 http://103.175.73.12:8080/live/155/155_0.m3u8
 #EXTINF:-1 tvg-name="E24" group-title="Bangladesh",E24
@@ -41,6 +39,8 @@ http://103.175.73.12:8080/live/159/159_0.m3u8
 http://103.175.73.12:8080/live/158/158_0.m3u8
 #EXTINF:-1 tvg-name="Antarjal" group-title="Bangladesh",Antarjal
 http://103.225.94.27/Infobase/hdd-2/Bangla/Antarjal%20(2023)%201080p%20WEBDL.mp4
+#EXTINF:-1 tvg-name="Nursary Rhymes" group-title="Bangladesh",Nursary Rhymes
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-name="NHK World" group-title="Bangladesh",NHK World
 http://103.175.73.12:8080/live/417/417_0.m3u8
 #EXTINF:-1 tvg-name="Mardaani 3" group-title="Bangladesh",Mardaani 3
@@ -251,22 +251,16 @@ http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 http://45.162.64.114/AGRO_CANAL/index.m3u8
 #EXTINF:-1 tvg-id="AgroMais.br@SD" tvg-logo="https://i.imgur.com/sFcOZeo.png" group-title="Brazil",AgroMais (720p)
 http://45.162.64.114/AGROMAIS/index.m3u8
-#EXTINF:-1 tvg-id="AMCLatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Brazil",AMC Latin America Brazil (1080p)
-http://45.190.156.152/AMC/index.m3u8
-#EXTINF:-1 tvg-id="Arte1.br@SD" tvg-logo="https://i.imgur.com/Ivnk7A6.png" group-title="Brazil",Arte 1 (1080p)
-http://143.14.178.40:7777/Arte_1_HD/index.m3u8
+#EXTINF:-1 tvg-id="Arte1.br@SD" tvg-logo="https://i.imgur.com/Ivnk7A6.png" group-title="Brazil",Arte 1 (720p)
+http://45.162.64.114/ARTE1/index.m3u8
 #EXTINF:-1 tvg-id="AXN.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Brazil",AXN (720p)
 http://45.190.28.50/AXN_HD/index.m3u8
 #EXTINF:-1 tvg-id="BabyTV.uk@Brazil" tvg-logo="https://i.imgur.com/4BDJ5FT.png" group-title="Brazil",BabyTV Brazil (720p)
 http://167.250.126.140:7777/BABYTV-HD/index.m3u8
 #EXTINF:-1 tvg-id="Band.br@SD" tvg-logo="https://i.imgur.com/1r5T6Pw.png" group-title="Brazil",Band (720p)
 http://45.190.28.50/BAND_HD/index.m3u8
-#EXTINF:-1 tvg-id="BandSports.br@SD" tvg-logo="https://i.imgur.com/EuPvzJe.png" group-title="Brazil",Band Sports (1080p)
-http://143.14.178.40:7777/Band_Sports_HD/index.m3u8
-#EXTINF:-1 tvg-id="BandNews.br@SD" tvg-logo="https://i.ibb.co/0jVZBFp/u8ya-iw-R-400x400.jpg" group-title="Brazil",BandNews (1080p)
-http://143.14.178.40:7777/Band_News_HD/index.m3u8
-#EXTINF:-1 tvg-id="Bis.br@SD" tvg-logo="https://i.imgur.com/VUt1lmH.png" group-title="Brazil",Bis (1080p)
-http://143.14.178.40:7777/BIS_HD/index.m3u8
+#EXTINF:-1 tvg-id="Bis.br@SD" tvg-logo="https://i.imgur.com/VUt1lmH.png" group-title="Brazil",Bis (720p)
+http://167.250.126.140:7777/BIS-HD/index.m3u8
 #EXTINF:-1 tvg-id="BoxKidsTV.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Boxkidstv.png" group-title="Brazil",Box Kids TV (720p)
 http://45.190.28.50/BOX_KIDS_HD/index.m3u8
 #EXTINF:-1 tvg-id="CanaldoBoi.br@SD" tvg-logo="https://i.imgur.com/pVM5MhS.png" group-title="Brazil",Canal do Boi (720p)
@@ -276,21 +270,21 @@ http://45.162.64.114/CANAL_EDUCACAO/index.m3u8
 #EXTINF:-1 tvg-id="CanalFutura.br@SD" tvg-logo="https://i.imgur.com/LgynEBC.png" group-title="Brazil",Canal Futura (720p)
 http://45.162.64.114/FUTURA/index.m3u8
 #EXTINF:-1 tvg-id="CanalOff.br@SD" tvg-logo="https://i.imgur.com/1biaLgJ.png" group-title="Brazil",Canal Off (1080p)
-http://143.14.178.40:7777/OFF_HD/index.m3u8
+http://170.82.202.31/OFF/index.m3u8
 #EXTINF:-1 tvg-id="ChefTV.br@SD" tvg-logo="https://i.imgur.com/UYksTee.png" group-title="Brazil",Chef TV (720p)
 http://45.190.28.50/CHEF_TV/index.m3u8
 #EXTINF:-1 tvg-id="Combate.br@SD" tvg-logo="https://i.imgur.com/ZPYK5jr.png" group-title="Brazil",Combate (720p)
-http://45.190.156.152/COMBATE/index.m3u8
+http://143.14.134.107/167/index.m3u8
 #EXTINF:-1 tvg-id="CulturaPara.br@SD" tvg-logo="https://i.imgur.com/5jPEI5c.png" group-title="Brazil",Cultura Para (720p)
 http://170.84.165.204:80/CANAL_21_HD/index.m3u8
 #EXTINF:-1 tvg-id="Curta.br@SD" tvg-logo="https://i.imgur.com/Rwrh0zU.png" group-title="Brazil",Curta! (720p)
-http://45.190.156.152/CURTA!/index.m3u8
+http://167.250.126.140:7777/CURTA!-HD/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Disney_channel_2019.png/960px-Disney_channel_2019.png" group-title="Brazil",Disney Channel (720p)
 http://167.250.126.140:7777/DISNEY-HD/index.m3u8
-#EXTINF:-1 tvg-id="DumDum.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/DumDum_logo.svg" group-title="Brazil",DumDum (1080p)
-http://45.190.156.152/ZOOMOO/index.m3u8
+#EXTINF:-1 tvg-id="DumDum.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/DumDum_logo.svg" group-title="Brazil",DumDum (720p)
+http://45.162.64.114/ZOOMOO_KIDS/index.m3u8
 #EXTINF:-1 tvg-id="ELatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png" group-title="Brazil",E! Latin America Brazil (720p)
-http://45.190.156.152/E/index.m3u8
+http://167.250.126.140:7777/E!-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Brazil",ESPN (1080p)
 http://181.78.197.59:8000/play/a07z/index.m3u8
 #EXTINF:-1 tvg-id="ESPN3.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" group-title="Brazil",ESPN 3 (720p)
@@ -305,36 +299,34 @@ http://45.162.64.114/FISH_TV/index.m3u8
 http://168.197.104.22:80/FUTURA/index.m3u8
 #EXTINF:-1 tvg-id="FXLatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="Brazil",FX Latin America Brazil (720p)
 http://167.250.126.140:7777/FX-HD/index.m3u8
-#EXTINF:-1 tvg-id="GloboNews.br@SD" tvg-logo="https://i.imgur.com/3yZyaCm.png" group-title="Brazil",GloboNews (1080p)
-http://143.14.178.40:7777/GloboNews_HD/index.m3u8
+#EXTINF:-1 tvg-id="GloboNews.br@SD" tvg-logo="https://i.imgur.com/3yZyaCm.png" group-title="Brazil",GloboNews (720p)
+http://41.205.70.146/GLOBONEWS/index.m3u8
 #EXTINF:-1 tvg-id="GloboplayNovelas.br@SD" tvg-logo="https://i.ibb.co/m5TBCDL2/Globoplay-Novelas-1.png" group-title="Brazil",Globoplay Novelas (1080p)
-http://143.14.178.40:7777/Globoplay_Novelas_HD/index.m3u8
-#EXTINF:-1 tvg-id="Gloob.br@SD" tvg-logo="https://i.imgur.com/N1BUULh.png" group-title="Brazil",Gloob (1080p)
-http://143.14.178.40:7777/Gloob_HD/index.m3u8
-#EXTINF:-1 tvg-id="Gloobinho.br@SD" tvg-logo="https://i.imgur.com/UWkHErt.png" group-title="Brazil",Gloobinho (1080p)
-http://143.14.178.40:7777/Gloobinho_HD/index.m3u8
+http://170.82.202.31/Viva/index.m3u8
+#EXTINF:-1 tvg-id="Gloob.br@SD" tvg-logo="https://i.imgur.com/N1BUULh.png" group-title="Brazil",Gloob (720p)
+http://167.250.126.140:7777/GLOOB-HD/index.m3u8
+#EXTINF:-1 tvg-id="Gloobinho.br@SD" tvg-logo="https://i.imgur.com/UWkHErt.png" group-title="Brazil",Gloobinho (720p)
+http://177.52.24.163/GLOOBINHO-HD/index.m3u8
 #EXTINF:-1 tvg-id="GNT.br@SD" tvg-logo="https://i.imgur.com/XymcvMy.png" group-title="Brazil",GNT (1080p)
-http://143.14.178.40:7777/GNT_HD/index.m3u8
+http://170.82.202.31/GNT/index.m3u8
 #EXTINF:-1 tvg-id="History.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Brazil",History (720p)
 http://45.190.28.50/HISTORY_HD/index.m3u8
 #EXTINF:-1 tvg-id="History2LatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="Brazil",History 2 Latin America Brazil (720p)
 http://45.190.28.50/H2_HD/index.m3u8
 #EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" group-title="Brazil",Lifetime Latin America Brazil (720p)
 http://138.255.2.6:8084/LIFETIME/index.m3u8
-#EXTINF:-1 tvg-id="Megapix.br@SD" tvg-logo="https://i.imgur.com/qTYv5jt.png" group-title="Brazil",Megapix (1080p)
-http://143.14.178.40:7777/Megapix_HD/index.m3u8
-#EXTINF:-1 tvg-id="Multishow.br@SD" tvg-logo="https://i.imgur.com/bqVg8nT.png" group-title="Brazil",Multishow (1080p)
-http://143.14.178.40:7777/Multishow_HD/index.m3u8
-#EXTINF:-1 tvg-id="MusicBoxBrazil.br@SD" tvg-logo="https://i.imgur.com/CDPCF2X.png" group-title="Brazil",Music Box Brazil (1080p)
-http://143.14.178.40:7777/Music_Box_HD/index.m3u8
+#EXTINF:-1 tvg-id="Megapix.br@SD" tvg-logo="https://i.imgur.com/qTYv5jt.png" group-title="Brazil",Megapix (720p)
+http://167.250.126.140:7777/MEGAPIX-HD/index.m3u8
+#EXTINF:-1 tvg-id="Multishow.br@SD" tvg-logo="https://i.imgur.com/bqVg8nT.png" group-title="Brazil",Multishow (720p)
+http://167.250.126.140:7777/MULTISHOW-HD/index.m3u8
+#EXTINF:-1 tvg-id="MusicBoxBrazil.br@SD" tvg-logo="https://i.imgur.com/CDPCF2X.png" group-title="Brazil",Music Box Brazil (720p)
+http://45.190.28.50/MUSIC_BOX_HD/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Brazil",National Geographic (720p)
 http://167.250.126.140:7777/NATGEO-HD/index.m3u8
 #EXTINF:-1 tvg-id="NovoTempo.br@SD" tvg-logo="" group-title="Brazil",Novo Tempo (720p)
 http://45.162.64.114/NOVO_TEMPO/index.m3u8
 #EXTINF:-1 tvg-id="PlayTV.br@SD" tvg-logo="https://i.imgur.com/Ikrj3lk.png" group-title="Brazil",Play TV (720p)
 http://45.162.64.114/PLAY_TV/index.m3u8
-#EXTINF:-1 tvg-id="PremiereClubes.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png" group-title="Brazil",Premiere Clubes (720p)
-http://45.190.156.152/PREMIERE_CLUBES/index.m3u8
 #EXTINF:-1 tvg-id="PrimerTV.br@SD" tvg-logo="https://i.imgur.com/PMptSP3.png" group-title="Brazil",Primer TV (1080p)
 http://200.194.238.229:8383/live/primer/playlist.m3u8
 #EXTINF:-1 tvg-id="Record.br@SD" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Brazil",Record (720p)
@@ -358,13 +350,13 @@ http://45.190.28.50/REDE_VIDA_HD/index.m3u8
 #EXTINF:-1 tvg-id="SBTNacional.br@SD" tvg-logo="https://i.imgur.com/tc1ALuu.png" group-title="Brazil",SBT Nacional (720p)
 http://45.190.28.50/SBT_HD/index.m3u8
 #EXTINF:-1 tvg-id="SBTNews.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/SBT_News_2025.svg" group-title="Brazil",SBT News (720p)
-http://45.190.156.152/SBT_NEWS/index.m3u8
+http://167.250.126.140:7777/COMEDYCENTRAL-HD/index.m3u8
 #EXTINF:-1 tvg-id="SonyChannel.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png" group-title="Brazil",Sony Channel (720p)
 http://45.190.28.50/SONY_HD/index.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" group-title="Brazil",Sony Movies (720p)
 http://45.162.64.114/SONY_MOVIES/index.m3u8
 #EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" group-title="Brazil",Studio Universal Latin America Brazil (720p)
-http://45.190.156.152/STUDIO_UNIVERSAL/index.m3u8
+http://167.250.126.140:7777/STUDIOUNIVERSAL-HD/index.m3u8
 #EXTINF:-1 tvg-id="TelecineAction.br@SD" tvg-logo="https://i.imgur.com/BHYWG0h.png" group-title="Brazil",Telecine Action (720p)
 http://167.250.126.140:7777/TCACTION-HD/index.m3u8
 #EXTINF:-1 tvg-id="TelecineCult.br@SD" tvg-logo="https://i.imgur.com/6GuHXnr.png" group-title="Brazil",Telecine Cult (720p)
@@ -415,12 +407,10 @@ http://45.190.28.50/RATIMBUM/index.m3u8
 http://45.162.64.114/TV_SENADO/index.m3u8
 #EXTINF:-1 tvg-id="TVECultura.br@SD" tvg-logo="https://i.imgur.com/FpqoWcB.png" group-title="Brazil",TVE Cultura (720p)
 http://45.190.28.50/TVE/index.m3u8
-#EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png" group-title="Brazil",Universal TV Latin America Brazil (720p)
-http://45.190.156.152/UNIVERSAL_TV/index.m3u8
-#EXTINF:-1 tvg-id="USANetworkLatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" group-title="Brazil",USA Network Latin America Brazil (1080p)
-http://45.190.156.152/USA/index.m3u8
-#EXTINF:-1 tvg-id="WooHoo.br@SD" tvg-logo="https://i.imgur.com/me622pa.png" group-title="Brazil",WooHoo (1080p)
-http://143.14.178.40:7777/Woohoo_HD/index.m3u8
+#EXTINF:-1 tvg-id="USANetworkLatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" group-title="Brazil",USA Network Latin America Brazil (720p)
+http://167.250.126.140:7777/SYFY-HD/index.m3u8
+#EXTINF:-1 tvg-id="WooHoo.br@SD" tvg-logo="https://i.imgur.com/me622pa.png" group-title="Brazil",WooHoo (720p)
+http://45.162.64.114/WOOHOO/index.m3u8
 #EXTINF:-1 tvg-id="78TV.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Seven-Eight-TV.png/960px-Seven-Eight-TV.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",7/8 TV
 http://213.91.179.28:8000/play/a0cn
 #EXTINF:-1 tvg-id="AMCEurope.uk@Bulgary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",AMC Europe Bulgary
@@ -453,8 +443,8 @@ http://212.70.131.37:8000/play/a08b
 http://213.91.179.28:8000/play/a045
 #EXTINF:-1 tvg-id="DiemaFamily.bg@SD" tvg-logo="https://i.imgur.com/SgNVY4d.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",Diema Family
 http://213.91.179.28:8000/play/a047
-#EXTINF:-1 tvg-id="DisneyChannel.bg@SD" tvg-logo="https://i.imgur.com/UxrAiAe.png" group-title="Bulgaria",Disney Channel (576p)
-http://84.54.128.52:9090/play/3006/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.bg@SD" tvg-logo="https://i.imgur.com/UxrAiAe.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",Disney Channel
+http://213.91.179.28:8000/play/a059
 #EXTINF:-1 tvg-id="DSTV.bg@SD" tvg-logo="https://i.imgur.com/YMgzzkf.png" group-title="Bulgaria",DSTV (614p) [Not 24/7]
 http://46.249.95.140:8081/hls/data.m3u8
 #EXTINF:-1 tvg-id="EKids.bg@SD" tvg-logo="https://i.imgur.com/dux7sjZ.png" group-title="Bulgaria",EKids (576p)
@@ -859,6 +849,8 @@ http://88.212.15.19/live/test_black/playlist.m3u8
 http://88.212.15.19/live/test_axn/playlist.m3u8
 #EXTINF:-1 tvg-id="AXNWhite.us@CzechRepublic" tvg-logo="https://i.imgur.com/47IKxmt.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Czech Republic",AXN White CzechRepublic
 http://88.212.15.19/live/test_white/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalPlusActionEurope.nl@Czechia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/1920px-Canal%2B_Action_2024.svg.png" group-title="Czech Republic",Canal+ Action Europe Czechia
+http://46.149.191.219:9106/play/a01g
 #EXTINF:-1 tvg-id="CNNPrimaNews.cz@SD" tvg-logo="https://i.imgur.com/elZyUjX.png" group-title="Czech Republic",CNN Prima News (1080p)
 http://88.212.15.19/live/test_cnn_pirma_news/playlist.m3u8
 #EXTINF:-1 tvg-id="CT1.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%C4%8CT1_logo_2012.svg/960px-%C4%8CT1_logo_2012.svg.png" group-title="Czech Republic",ČT 1
@@ -901,6 +893,8 @@ http://88.212.15.19/live/mb_dance/index.m3u8
 http://88.212.15.19/live/mb_hits/index.m3u8
 #EXTINF:-1 tvg-id="MusicBoxSexy.cz@SD" tvg-logo="https://musicboxsexy.com/music_box_sexy_logo.png" group-title="Czech Republic",Music Box Sexy
 http://88.212.15.19/live/mb_sexy/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.cz@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Czech Republic",Nickelodeon
+http://88.212.15.19/live/test_nickelodeon_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" group-title="Czech Republic",Nicktoons
 http://88.212.15.19/live/test_nicktoons/playlist.m3u8
 #EXTINF:-1 tvg-id="Prima.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Prima_2013.png/960px-Prima_2013.png" group-title="Czech Republic",Prima (1080p)
@@ -1125,12 +1119,18 @@ http://88.212.15.19/live/film_plus_hun_atk/index.m3u8
 http://88.212.15.19/live/test_filmbox_family_hun_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusEmotion.pl@Hungary" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Hungary",FILMBOX+ Emotion Hungary (1080p)
 http://88.212.15.19/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-id="FILMBOXPlusHits.pl@Hungary" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Hungary",FILMBOX+ Hits Hungary
+http://88.212.15.19/live/fb_premium_hungary/index.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusOne.pl@Magyar" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Hungary",FILMBOX+ One Magyar
 http://88.212.15.19/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="History.hu@SD" tvg-logo="https://i.imgur.com/OWIK7FJ.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Hungary",History
 http://88.212.15.19/live/history_hun/index.m3u8
 #EXTINF:-1 tvg-id="IzauraTV.hu@SD" tvg-logo="https://i.imgur.com/p9YFnpw.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Hungary",Izaura TV (1080p)
 http://88.212.15.19/live/izaura/index.m3u8
+#EXTINF:-1 tvg-id="JockyTV.hu@SD" tvg-logo="https://i.imgur.com/wLawFVP.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Hungary",Jocky TV
+http://88.212.15.19/live/jocky/index.m3u8
+#EXTINF:-1 tvg-id="Kolyokklub.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/K%C3%B6ly%C3%B6kklub_II.svg/1920px-K%C3%B6ly%C3%B6kklub_II.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Hungary",Kolyokklub
+http://88.212.15.19/live/kolyokklub_atk/index.m3u8
 #EXTINF:-1 tvg-id="LiceumTV.hu@SD" tvg-logo="https://i.imgur.com/Hf122ZD.png" group-title="Hungary",Liceum TV (576p)
 http://193.225.32.62:8890/live.m3u8
 #EXTINF:-1 tvg-id="Loversenykozvetites.hu@SD" tvg-logo="https://i.imgur.com/IGajR6G.png" group-title="Hungary",Lóverseny közvetítés (420p)
@@ -1145,6 +1145,8 @@ http://88.212.15.19/live/m4_hun/index.m3u8
 http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="MoziPlus.hu@SD" tvg-logo="https://i.imgur.com/LtCnPFJ.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Hungary",Mozi+
 http://88.212.15.19/live/mozi_plusz/index.m3u8
+#EXTINF:-1 tvg-id="Moziklub.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Moziklub.svg/1920px-Moziklub.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Hungary",Moziklub
+http://88.212.15.19/live/moziklub_atk/index.m3u8
 #EXTINF:-1 tvg-id="Moziverzum.hu@SD" tvg-logo="https://i.imgur.com/NMifecQ.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Hungary",Moziverzum
 http://88.212.15.19/live/moziverzum/index.m3u8
 #EXTINF:-1 tvg-id="MuzsikaTV.hu@SD" tvg-logo="https://i.imgur.com/kmQ5vYC.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Hungary",Muzsika TV
@@ -1153,6 +1155,10 @@ http://88.212.15.19/live/test_muzsika_hungary_1200_atk/playlist.m3u8
 http://88.212.15.19/live/ngc_hun/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Hungary",National Geographic Wild
 http://88.212.15.19/live/ngw_hun/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Hungary",Nick Jr.
+http://88.212.15.19/live/nick_junior_hun/index.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Hungary",Nicktoons
+http://88.212.15.19/live/nicktoons_hungary/index.m3u8
 #EXTINF:-1 tvg-id="Prime.hu@SD" tvg-logo="https://i.imgur.com/VvZEP4s.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Hungary",Prime
 http://88.212.15.19/live/prime/index.m3u8
 #EXTINF:-1 tvg-id="PVTV.hu@SD" tvg-logo="https://i.imgur.com/eKXPBFb.png" group-title="Hungary",Putnok Városi TV (720p)
@@ -1171,6 +1177,8 @@ http://88.212.15.19/live/test_slager_tv_hungary_1200_atk/playlist.m3u8
 http://79.120.178.90:1935/soltvadkerttv/soltvlive/playlist.m3u8
 #EXTINF:-1 tvg-id="SorozatPlus.hu@SD" tvg-logo="https://i.imgur.com/KsxWZIw.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Hungary",Sorozat+
 http://88.212.15.19/live/test_sorozat_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="Sorozatklub.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sorozatklub.svg/1920px-Sorozatklub.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Hungary",Sorozatklub
+http://88.212.15.19/live/sorozatklub_atk/index.m3u8
 #EXTINF:-1 tvg-id="Spektrum.hu@SD" tvg-logo="https://i.imgur.com/GmFRQ82.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Hungary",Spektrum
 http://88.212.15.19/live/spektrum_hun/index.m3u8
 #EXTINF:-1 tvg-id="SpektrumHome.hu@SD" tvg-logo="https://i.imgur.com/VaVi65F.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Hungary",Spektrum Home
@@ -1531,6 +1539,8 @@ http://202.150.161.117:8000/play/AlBahjahTV
 http://103.58.160.157:8278/720-ANTV/playlist.m3u8
 #EXTINF:-1 tvg-id="AtambuaTV.id@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Atambua_TV.png" group-title="Indonesia",Atambua TV (720p)
 http://122.248.43.242:1935/ATAMBUATV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="AXNAsia.sg@Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Indonesia",AXN Asia Indonesia
+http://103.137.83.62:9090/play/21/index.m3u8
 #EXTINF:-1 tvg-id="BalikpapanTV.id@SD" tvg-logo="https://i.imgur.com/P3whqna.png" group-title="Indonesia",Balikpapan TV (720p)
 http://122.248.43.242:1935/BALIKPAPANTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="BandungTV.id@SD" tvg-logo="https://i.postimg.cc/JzqSzcj9/200px-Logo-bdg-tv-2016.png" group-title="Indonesia",Bandung TV (360p)
@@ -1681,8 +1691,6 @@ http://185.202.128.1:1935/Tv6Stream/tv6TV.stream/playlist.m3u8
 http://91.146.94.234:10001/play/a08u
 #EXTINF:-1 tvg-id="PassionNovelas.ci@SD" tvg-logo="https://i.imgur.com/boo9jmf.png" group-title="Ivory Coast",Passion Novelas (1080p)
 http://41.223.30.230/PASSIONTV/index.m3u8
-#EXTINF:-1 tvg-id="RTI1.ci@SD" tvg-logo="https://i.imgur.com/TybQZQS.png" group-title="Ivory Coast",RTI 1 (1080p) [Not 24/7]
-http://69.64.57.208:8080/rti1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAlBayane.ci@SD" tvg-logo="https://i.imgur.com/Xs9oEG8.png" group-title="Ivory Coast",TV Al Bayane (360p)
 http://69.64.57.208/albayanetv/index.m3u8
 #EXTINF:-1 tvg-id="AlerthAlnabawiChannel.jo@SD" tvg-logo="https://i.imgur.com/iYibJxK.png" group-title="Jordan",Alerth Alnabawi Channel (576p)
@@ -1851,7 +1859,7 @@ http://115.42.65.142:9981/stream/channelid/966869781
 http://115.42.65.142:9981/stream/channelid/1273966657
 #EXTINF:-1 tvg-id="ARYNews.pk@Pakistan" tvg-logo="https://i.imgur.com/R4KtTbJ.jpg" group-title="Pakistan",ARY News (576p)
 http://115.42.65.142:9981/stream/channelid/322092446
-#EXTINF:-1 tvg-id="ARYZindagi.pk@SD" tvg-logo="" group-title="Pakistan",ARY Zindagi (576p)
+#EXTINF:-1 tvg-id="ARYZindagi.pk@SD" tvg-logo="https://i.ibb.co/XrJ99Rkb/Ary-Zindagi.png" group-title="Pakistan",ARY Zindagi (576p)
 http://115.42.65.142:9981/stream/channelid/1064070262
 #EXTINF:-1 tvg-id="ATV.pk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Atv_pakistan.PNG" group-title="Pakistan",ATV (1080p)
 http://115.42.65.142:9981/stream/channelid/299762256
@@ -2439,6 +2447,8 @@ http://41.205.70.146/M6/index.m3u8
 http://69.64.57.208/tvt/playlist.m3u8
 #EXTINF:-1 tvg-id="BenguturkTV.tr@SD" tvg-logo="https://i.imgur.com/p3ON1oX.png" group-title="Turkiye",Benguturk TV (1080p)
 http://185.234.111.229:8000/play/a05u
+#EXTINF:-1 tvg-id="FilmBox.nl@Netherlands" tvg-logo="https://i.imgur.com/VyaslIY.png" group-title="Turkiye",FilmBox
+http://46.149.191.219:9100/play/a015
 #EXTINF:-1 tvg-id="KanalAvrupa.tr@SD" tvg-logo="https://i.imgur.com/bIGk6RN.png" group-title="Turkiye",Kanal Avrupa (1080p)
 http://51.15.2.151/hls/kanalavrupa.m3u8
 #EXTINF:-1 tvg-id="KanalB.tr@SD" tvg-logo="https://i.imgur.com/bUsbxTQ.png" group-title="Turkiye",Kanal B (480p) [Not 24/7]
