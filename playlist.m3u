@@ -7,18 +7,16 @@ http://145.239.5.177/557a/index.m3u8
 http://66.45.232.131:9994/;stream.mp3
 #EXTINF:-1 tvg-name="Digital Fashion" group-title="Bangladesh",Digital Fashion
 http://115.187.41.216:8080/hls/digitalfashion/index.m3u8
-#EXTINF:-1 tvg-name="Jalsha Movies HD" group-title="Bangladesh",Jalsha Movies HD
-http://103.151.61.12/Jalsha_Movie/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0
 #EXTINF:-1 tvg-name="Zee Anmol TV" group-title="Bangladesh",Zee Anmol TV
 http://103.175.73.12:8080/live/256/256_0.m3u8
 #EXTINF:-1 tvg-name="Zee Action" group-title="Bangladesh",Zee Action
 http://103.175.73.12:8080/live/270/270_0.m3u8
 #EXTINF:-1 tvg-name="Big Magic" group-title="Bangladesh",Big Magic
 http://103.175.73.12:8080/live/13/13_0.m3u8
-#EXTINF:-1 tvg-name="Hindi Hits HD" group-title="Bangladesh",Hindi Hits HD
-http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-name="Goldmines Bollywood" group-title="Bangladesh",Goldmines Bollywood
 http://103.175.73.12:8080/live/52/52_0.m3u8
+#EXTINF:-1 tvg-name="Hindi Hits HD" group-title="Bangladesh",Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-name="Food Food" group-title="Bangladesh",Food Food
 http://103.175.73.12:8080/live/143/143_0.m3u8
 #EXTINF:-1 tvg-name="NHK World" group-title="Bangladesh",NHK World
