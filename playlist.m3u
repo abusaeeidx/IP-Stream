@@ -1,26 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Bangladesh",Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 tvg-name="Bein Sports Direct HD" group-title="Bangladesh",Bein Sports Direct HD
-http://145.239.5.177/557a/index.m3u8
-#EXTINF:-1 tvg-name="BTV" group-title="Bangladesh",BTV
-http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Somoy TV" group-title="Bangladesh",Somoy TV
 http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Digital Fashion" group-title="Bangladesh",Digital Fashion
-http://115.187.41.216:8080/hls/digitalfashion/index.m3u8
 #EXTINF:-1 tvg-name="Al Quran Radio" group-title="Bangladesh",Al Quran Radio
 http://66.45.232.131:9994/;stream.mp3
 #EXTINF:-1 tvg-name="Jalsha Movies" group-title="Bangladesh",Jalsha Movies
 http://103.165.93.31:8095/jalshaMovies/index.m3u8
 #EXTINF:-1 tvg-name="Jalsha Movies HD" group-title="Bangladesh",Jalsha Movies HD
 http://103.151.61.12/Jalsha_Movie/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0
-#EXTINF:-1 tvg-name="Big Magic" group-title="Bangladesh",Big Magic
-http://103.175.73.12:8080/live/13/13_0.m3u8
 #EXTINF:-1 tvg-name="Zee Anmol TV" group-title="Bangladesh",Zee Anmol TV
 http://103.175.73.12:8080/live/256/256_0.m3u8
 #EXTINF:-1 tvg-name="Zee Action" group-title="Bangladesh",Zee Action
 http://103.175.73.12:8080/live/270/270_0.m3u8
+#EXTINF:-1 tvg-name="Big Magic" group-title="Bangladesh",Big Magic
+http://103.175.73.12:8080/live/13/13_0.m3u8
 #EXTINF:-1 tvg-name="Goldmines Bollywood" group-title="Bangladesh",Goldmines Bollywood
 http://103.175.73.12:8080/live/52/52_0.m3u8
 #EXTINF:-1 tvg-name="Star Sports 1 HD" group-title="Bangladesh",Star Sports 1 HD
@@ -31,16 +25,16 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 http://103.175.73.12:8080/live/143/143_0.m3u8
 #EXTINF:-1 tvg-name="9XM" group-title="Bangladesh",9XM
 http://103.175.73.12:8080/live/155/155_0.m3u8
-#EXTINF:-1 tvg-name="E24" group-title="Bangladesh",E24
-http://103.175.73.12:8080/live/159/159_0.m3u8
-#EXTINF:-1 tvg-name="Nursary Rhymes" group-title="Bangladesh",Nursary Rhymes
-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-name="Music India" group-title="Bangladesh",Music India
 http://103.175.73.12:8080/live/158/158_0.m3u8
-#EXTINF:-1 tvg-name="MBC tv" group-title="Bangladesh",MBC tv
-http://93.184.10.248/MBCBollywood/index.m3u8
+#EXTINF:-1 tvg-name="Nursary Rhymes" group-title="Bangladesh",Nursary Rhymes
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-name="NHK World" group-title="Bangladesh",NHK World
 http://103.175.73.12:8080/live/417/417_0.m3u8
+#EXTINF:-1 tvg-name="MBC tv" group-title="Bangladesh",MBC tv
+http://93.184.10.248/MBCBollywood/index.m3u8
+#EXTINF:-1 tvg-name="Live Sports-3" group-title="Bangladesh",Live Sports-3
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
 #EXTINF:-1 tvg-id="HewadTV.af@SD" tvg-logo="https://i.imgur.com/cK2eWUZ.png" group-title="Afghanistan",Hewad TV (720p) [Not 24/7]
 http://51.210.199.58/hls/stream.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelEMEA.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Albania",Disney Channel EMEA (576p)
@@ -897,6 +891,8 @@ https://173.212.247.21/live/tvprerov.m3u8
 http://88.212.15.19/live/test_seznam_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBarrandov.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_TV_Barrandov.png/960px-Logo_TV_Barrandov.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Czech Republic",TV Barrandov
 http://88.212.15.19/live/test_barrandov/playlist.m3u8
+#EXTINF:-1 tvg-id="ViasatEpicDrama.uk@Czechia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Viasat_Epic_Drama_2026.svg" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Czech Republic",Viasat Epic Drama
+http://88.212.15.29/live/test_epic_drama_atk_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ViasatExplore.cz@SD" tvg-logo="https://i.imgur.com/DyT5pKB.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Czech Republic",Viasat Explore
 http://88.212.15.29/live/test_viasat_explore_atk_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ViasatHistory.cz@SD" tvg-logo="https://i.imgur.com/wRP9XA7.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Czech Republic",Viasat History
@@ -1377,7 +1373,7 @@ http://103.213.31.109:90/ChumbakTv/playlist.m3u8
 http://103.213.31.109:90/ShemarooUmang/playlist.m3u8
 #EXTINF:-1 tvg-id="SongdewTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142920_ld_h9_aa.png?lock=720x540" group-title="India",Songdew TV (576p)
 http://103.72.101.252:8080/live/1411.m3u8
-#EXTINF:-1 tvg-id="SonyMax1.in@SD" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/general_content/PGT_1822_2.png" group-title="India",Sony Max 1 (720p)
+#EXTINF:-1 tvg-id="SonyMax1.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s179440_ld_h15_aa.png?lock=720x540" group-title="India",Sony Max 1 (720p)
 http://103.159.180.34:5001/live/3418.m3u8
 #EXTINF:-1 tvg-id="SonyMax2.in@SD" tvg-logo="https://i.imgur.com/gqUYk6C.png" group-title="India",Sony Max 2 (576p)
 http://149.71.34.166:8000/play/a00z/index.m3u8
@@ -2849,8 +2845,6 @@ http://170.238.200.199:80/nuestra-tele/index.m3u8
 http://138.186.23.7:8082/PARAMOUNT/index.m3u8
 #EXTINF:-1 tvg-id="PasionesLatinAmerica.us@SD" tvg-logo="https://i.imgur.com/VGnbWjO.png" group-title="International",Pasiones Latin America (1080p)
 http://45.162.193.35/PASIONESHD/index.m3u8
-#EXTINF:-1 tvg-id="RCNNovelas.co@SD" tvg-logo="https://i.imgur.com/9wxdWNQ.png" group-title="International",RCN Novelas (720p)
-http://170.238.200.199:80/rcn-novelas/index.m3u8
 #EXTINF:-1 tvg-id="ROCKEntertainment.sg@SD" tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="International",ROCK Entertainment (576p)
 http://202.169.224.202:8800/udp/239.9.1.8:1234
 #EXTINF:-1 tvg-id="RT.ru@HD" tvg-logo="https://dtil.tmsimg.com/assets/s142401_ld_h15_aa.png?lock=720x540" group-title="International",RT HD (1080p)
@@ -2965,8 +2959,6 @@ http://177.234.249.178:8888/UNIVISION/index.m3u8
 http://138.186.23.7:8082/SYFY/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Vathanam TV
 http://95.216.167.183:5080/LiveApp/streams/443106610169904881506470.m3u8
-#EXTINF:-1 tvg-id="ViasatEpicDrama.uk@Czechia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Viasat_Epic_Drama_2026.svg" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Undefined",Viasat Epic Drama
-http://88.212.15.29/live/test_epic_drama_atk_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="VillageCinemas.gr@SD" tvg-logo="https://i.imgur.com/wy76SAP.png" group-title="Undefined",Village Cinemas (720p)
 http://185.102.171.218/Village/index.m3u8
 #EXTINF:-1 tvg-id="WNetwork.ca@SD" tvg-logo="https://i.imgur.com/t7XdBh8.png" group-title="Undefined",W Network (720p)
