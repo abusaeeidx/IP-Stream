@@ -1,8 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Bangladesh",Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 tvg-name="News 21 HD" group-title="Bangladesh",News 21 HD
+http://103.190.133.68:1935/news21live/live/chunklist_w54225199.m3u8
 #EXTINF:-1 tvg-name="Hindi Hits HD" group-title="Bangladesh",Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:-1 tvg-name="Star Sports 1 Hindi HD" group-title="Bangladesh",Star Sports 1 Hindi HD
+http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1 tvg-name="Digital Fashion" group-title="Bangladesh",Digital Fashion
+http://115.187.41.216:8080/hls/digitalfashion/index.m3u8
 #EXTINF:-1 tvg-id="HewadTV.af@SD" tvg-logo="https://i.imgur.com/cK2eWUZ.png" group-title="Afghanistan",Hewad TV (720p) [Not 24/7]
 http://51.210.199.58/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ElrodiTV.al@SD" tvg-logo="https://i.imgur.com/9oSm30W.png" group-title="Albania",Elrodi TV (576p)
@@ -71,8 +77,6 @@ http://177.234.249.178:8888/MTV/index.m3u8
 http://204.199.3.2/.m3u8
 #EXTINF:-1 tvg-id="SonyChannel.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png" group-title="Argentina",Sony Channel (1080p)
 http://138.121.15.230:9002/SONY/index.m3u8
-#EXTINF:-1 tvg-id="Telefe.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe (480p)
-http://201.190.41.246:8822/play/a036/index.m3u8
 #EXTINF:-1 tvg-id="TelefeBuenosAires.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe Buenos Aires (1080p)
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 #EXTINF:-1 tvg-id="TelefeInterior.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe Interior (720p)
@@ -807,7 +811,7 @@ http://88.212.15.19/live/test_seznam_hevc_25p/playlist.m3u8
 http://88.212.15.19/live/test_barrandov/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPaprika.cz@SD" tvg-logo="https://i.imgur.com/NSabYyT.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Czech Republic",TV Paprika
 http://88.212.15.19/live/test_parpika_tv_sd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="ViasatEpicDrama.uk@Czechia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Viasat_Epic_Drama_2026.svg" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Czech Republic",Viasat Epic Drama
+#EXTINF:-1 tvg-id="ViasatEpicDrama.uk@Czechia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Viasat_Epic_Drama_2026.svg" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Czech Republic",Viasat Epic Drama Czechia
 http://88.212.15.29/live/test_epic_drama_atk_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ViasatExplore.cz@SD" tvg-logo="https://i.imgur.com/DyT5pKB.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Czech Republic",Viasat Explore
 http://88.212.15.29/live/test_viasat_explore_atk_tv/playlist.m3u8
@@ -1189,16 +1193,10 @@ http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8
 http://180.188.254.253/live/FATEHTVHD.m3u8
 #EXTINF:-1 tvg-id="GoldminesMovies.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="India",Goldmines Movies (576p)
 http://103.175.73.12:8080/live/51/51_0.m3u8
-#EXTINF:-1 tvg-id="HistoryTV18.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143132_ld_h15_aa.png?lock=720x540" group-title="India",History TV18 (576p)
-http://103.72.101.252:8080/live/1471.m3u8
 #EXTINF:-1 tvg-id="HistoryTV18.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540" group-title="India",History TV18 HD (1080p)
 http://103.154.3.101:5001/live/577.m3u8
 #EXTINF:-1 tvg-id="HungamaTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HUNGAMA/images/LOGO_HD/image.png" group-title="India",Hungama TV (576p)
 http://103.185.24.134:3001/HUNGAMA/index.m3u8
-#EXTINF:-1 tvg-id="Insync.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Insync.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="India",Insync (576p)
-http://103.175.73.12:8080/live/160/master.m3u8
-#EXTINF:-1 tvg-id="JMovie.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_J_MOVIES/images/LOGO_HD/image.png" group-title="India",J Movie (576p)
-http://103.72.101.252:8080/live/417.m3u8
 #EXTINF:-1 tvg-id="JanapriyamTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Janapriyam_News.png" group-title="India",Janapriyam TV (480p)
 http://103.72.101.252:8080/live/1455.m3u8
 #EXTINF:-1 tvg-id="JayaMax.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JAYA_MAX/images/LOGO_HD/image.png" group-title="India",Jaya Max (576p)
@@ -1265,18 +1263,10 @@ http://103.213.31.109:90/ShemarooFilmiGaane/playlist.m3u8
 http://103.213.31.109:90/ChumbakTv/playlist.m3u8
 #EXTINF:-1 tvg-id="SongdewTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142920_ld_h9_aa.png?lock=720x540" group-title="India",Songdew TV (576p)
 http://103.72.101.252:8080/live/1411.m3u8
-#EXTINF:-1 tvg-id="SonyAath.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_8/images/LOGO_HD/image.png" group-title="India",Sony Aath (576p)
-http://103.165.93.31:8095/sonyAath/index.m3u8
 #EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png?lock=720x540" group-title="India",Sony Entertainment Television HD (1080p)
 http://38.96.178.205/SONYHD/index.m3u8
 #EXTINF:-1 tvg-id="SonyMax1.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s179440_ld_h15_aa.png?lock=720x540" group-title="India",Sony Max 1 (720p)
 http://103.159.180.34:5001/live/3418.m3u8
-#EXTINF:-1 tvg-id="SonyMax2.in@SD" tvg-logo="https://i.imgur.com/gqUYk6C.png" group-title="India",Sony Max 2 (576p)
-http://149.71.34.166:8000/play/a00z/index.m3u8
-#EXTINF:-1 tvg-id="SonyPal.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_PAL/images/LOGO_HD/image.png" group-title="India",Sony Pal (576p)
-http://59.103.38.46:8000/play/a0ac/index.m3u8
-#EXTINF:-1 tvg-id="SonyYay.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_YAY/images/LOGO_HD/image.png" group-title="India",Sony Yay! (576p)
-http://103.165.93.31:8095/sonyYay/index.m3u8
 #EXTINF:-1 tvg-id="SportsSquadHaryana.in@SD" tvg-logo="https://papaji.freetvindia.com/media/Sports_Squad_Hariyana.png" group-title="India",Sports Squad Haryana (576p)
 http://180.188.254.253/live/SPORTSSQUADHARYANA.m3u8
 #EXTINF:-1 tvg-id="StarBharat.in@SD" tvg-logo="https://i.imgur.com/Q8ajPij.png" group-title="India",Star Bharat (576p)
@@ -1621,6 +1611,8 @@ http://86.87.15.10:8008/play/a01k/index.m3u8
 http://86.87.15.10:8008/play/a01m/index.m3u8
 #EXTINF:-1 tvg-id="Film1Premiere.nl@SD" tvg-logo="https://i.imgur.com/Kn9LX8i.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Netherlands",Film1 Premiere
 http://86.87.15.10:8008/play/a01n/index.m3u8
+#EXTINF:-1 tvg-id="FILMBOXPlusOne.pl@Nederland" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png" group-title="Netherlands",FILMBOX+ One Nederland
+http://46.149.191.219:9100/play/a015
 #EXTINF:-1 tvg-id="ZiggoSport.nl@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/960px-Ziggo_Sport_logo.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Netherlands",Ziggo Sport
 http://86.87.15.10:8004/play/a02d/index.m3u8
 #EXTINF:-1 tvg-id="ZiggoSport2.nl@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/960px-Ziggo_Sport_logo.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Netherlands",Ziggo Sport 2
@@ -1653,7 +1645,7 @@ http://115.42.65.142:9981/stream/channelid/299762256
 http://124.109.47.101/hls/stream1.m3u8
 #EXTINF:-1 tvg-id="AVTKhyber.pk@SD" tvg-logo="https://i.imgur.com/FqkABWT.png" group-title="Pakistan",AVT Khyber (1080p)
 http://115.42.65.142:9981/stream/channelid/1380586642
-#EXTINF:-1 tvg-id="City41.pk@SD" tvg-logo="" group-title="Pakistan",City 41 (576p)
+#EXTINF:-1 tvg-id="City41.pk@SD" tvg-logo="https://i.imgur.com/U5BdY2g.png" group-title="Pakistan",City 41 (576p)
 http://163.61.227.29:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-id="Filmazia.pk@SD" tvg-logo="https://i.imgur.com/hpTCANa.png" group-title="Pakistan",Filmazia (576p)
 http://103.250.28.74:8000/play/a02k/index.m3u8
@@ -2193,8 +2185,6 @@ http://69.64.57.208/tvt/playlist.m3u8
 http://88.212.15.29/live/bbc_first/index.m3u8
 #EXTINF:-1 tvg-id="BenguturkTV.tr@SD" tvg-logo="https://i.imgur.com/p3ON1oX.png" group-title="Turkiye",Benguturk TV (1080p)
 http://185.234.111.229:8000/play/a05u
-#EXTINF:-1 tvg-id="FilmBox.nl@Netherlands" tvg-logo="https://i.imgur.com/VyaslIY.png" group-title="Turkiye",FilmBox
-http://46.149.191.219:9100/play/a015
 #EXTINF:-1 tvg-id="MedMuzik.tr@SD" tvg-logo="https://i.imgur.com/gtUFmCD.png" group-title="Turkiye",Med Muzik (1080p)
 http://54.36.110.140/live3/live3.m3u8
 #EXTINF:-1 tvg-id="BricveSatrancTV.tr@SD" tvg-logo="https://i.imgur.com/TXDV1ty.png" group-title="Turkiye",Satranç TV (480p) [Not 24/7]
@@ -2299,6 +2289,10 @@ http://23.237.104.106:8080/USA_BUZZR/index.m3u8
 http://177.234.249.178:8888/AMERICA/index.m3u8
 #EXTINF:-1 tvg-id="CineSony.us@SD" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="United States",Cine Sony (1080p)
 http://177.234.249.178:8888/SONY-MOVIES/index.m3u8
+#EXTINF:-1 tvg-id="CinemaxClassics.us@East" tvg-logo="https://static.hbo.com/2025-09/Cinemax_Classics_Plex_Logo_bw.svg" group-title="United States",Cinemax Classics (1080p)
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+#EXTINF:-1 tvg-id="CinemaxHits.us@East" tvg-logo="https://static.hbo.com/2025-09/Cinemax_Hits_Plex_Logo_bw.svg" group-title="United States",Cinemax Hits (1080p)
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 #EXTINF:-1 tvg-id="CMT.us@East" tvg-logo="https://i.imgur.com/S7DOpdY.png" group-title="United States",CMT (720p)
 http://23.237.104.106:8080/USA_CMT/index.m3u8
 #EXTINF:-1 tvg-id="CNBC.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png" group-title="United States",CNBC (720p) [Geo-blocked]
@@ -2347,6 +2341,8 @@ http://23.237.104.106:8080/USA_FX/index.m3u8
 http://23.237.104.106:8080/USA_FXX/index.m3u8
 #EXTINF:-1 tvg-id="HallmarkChannel.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/960px-Hallmark_Channel.svg.png" group-title="United States",Hallmark Channel (1080p)
 http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
+#EXTINF:-1 tvg-id="HBOMovies.us@East" tvg-logo="https://static.hbo.com/2025-09/HBO_Movies_Plex_Logo_bw.svg" group-title="United States",HBO Movies (720p)
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1 tvg-id="History.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="United States",History (720p)
 http://212.5.144.156:8080/history/index.m3u8
 #EXTINF:-1 tvg-id="IFC.us@East" tvg-logo="https://i.imgur.com/bQdkyF9.png" group-title="United States",IFC (1080p)
@@ -2369,8 +2365,6 @@ http://23.237.104.106:8080/USA_LMN/index.m3u8
 http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
 #EXTINF:-1 tvg-id="MMATV.us@SD" tvg-logo="https://i.imgur.com/Qxco1eW.png" group-title="United States",MMA-TV (576p)
 http://31.148.48.15/M1_Global/index.m3u8
-#EXTINF:-1 tvg-id="MoreMax.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/960px-MoreMax_Logo.svg.png" group-title="United States",MoreMax (1080p)
-http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 #EXTINF:-1 tvg-id="MSG.us@SD" tvg-logo="https://i.imgur.com/SEQFh0P.png" group-title="United States",MSG (720p)
 http://23.237.104.106:8080/USA_MSG/index.m3u8
 #EXTINF:-1 tvg-id="MTV.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" group-title="United States",MTV (1080p)
@@ -2413,7 +2407,7 @@ http://4.59.210.197:8815/udp/127.0.0.1:6002
 http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="SemillitasTV.us@SD" tvg-logo="https://i.imgur.com/u3yujUd.png" group-title="United States",Semillitas TV (576p)
 http://45.5.117.99:8000/play/a0g3/index.m3u8
-#EXTINF:-1 tvg-id="ShowtimeFamilyZone.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/960px-Showtime.svg.png" group-title="United States",Showtime Family Zone (720p)
+#EXTINF:-1 tvg-id="ShowtimeFamilyZone.us@East" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Showtime_Family_Zone.svg/960px-Showtime_Family_Zone.svg.png" group-title="United States",Showtime Family Zone (720p)
 http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="Starz.us@East" tvg-logo="https://i.imgur.com/N7oSm4d.png" group-title="United States",Starz (1080p)
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
