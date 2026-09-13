@@ -2355,8 +2355,12 @@ http://190.11.225.124:5000/live/nbc_hd/playlist.m3u8
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="NFLNetwork.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png" group-title="United States",NFL Network (720p)
 http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.us@East" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="United States",Nickelodeon (1080p)
-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.us@East" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="United States",Nick Jr. (720p)
+http://212.5.144.156:8080/nickjr/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.us@East" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="United States",Nickelodeon (720p)
+http://198.58.104.90:8989/nickelodeon/index.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.us@East" tvg-logo="https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG_1751457678592.png" group-title="United States",Nicktoons (720p)
+http://41.205.93.154/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-id="NRBTV.us@SD" tvg-logo="https://i.imgur.com/2PL1Au7.png" group-title="United States",NRBTV (720p)
 http://145.239.5.177/215/index.m3u8
 #EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/One_America_News_Network_logo.svg/960px-One_America_News_Network_logo.svg.png" group-title="United States",One America News Network (720p)
@@ -2379,8 +2383,6 @@ http://45.5.117.99:8000/play/a0g3/index.m3u8
 http://4.30.180.36:8420/showtime/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="ShowtimeFamilyZone.us@East" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Showtime_Family_Zone.svg/960px-Showtime_Family_Zone.svg.png" group-title="United States",Showtime Family Zone (720p)
 http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
-#EXTINF:-1 tvg-id="Starz.us@East" tvg-logo="https://i.imgur.com/N7oSm4d.png" group-title="United States",Starz (1080p)
-http://23.237.104.106:8080/USA_STARZ/index.m3u8
 #EXTINF:-1 tvg-id="StarzCinema.us@East" tvg-logo="https://i.imgur.com/ghzzKoT.png" group-title="United States",Starz Cinema (720p)
 http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 #EXTINF:-1 tvg-id="StarzComedy.us@East" tvg-logo="https://i.imgur.com/JpKvjZe.png" group-title="United States",Starz Comedy (1080p)
