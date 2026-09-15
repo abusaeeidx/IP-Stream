@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Bangladesh",Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 tvg-name="News 21 HD" group-title="Bangladesh",News 21 HD
-http://103.190.133.68:1935/news21live/live/chunklist_w54225199.m3u8
+#EXTINF:-1 tvg-name="Hindi Hits HD" group-title="Bangladesh",Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-name="Digital Fashion" group-title="Bangladesh",Digital Fashion
 http://115.187.41.216:8080/hls/digitalfashion/index.m3u8
 #EXTINF:-1 tvg-id="HewadTV.af@SD" tvg-logo="https://i.imgur.com/cK2eWUZ.png" group-title="Afghanistan",Hewad TV (720p) [Not 24/7]
@@ -35,6 +35,8 @@ http://5.254.89.106/8777/index.m3u8
 http://5.254.89.106/8704/index.m3u8
 #EXTINF:-1 tvg-id="TV2.dz@SD" tvg-logo="https://i.imgur.com/VEb631f.png" group-title="Algeria",TV2 (1080p)
 http://185.9.2.18/chid_347/index.m3u8
+#EXTINF:-1 tvg-id="AdultSwimLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png" group-title="Argentina",Adult Swim Latin America (1080p) [Geo-blocked]
+http://138.121.15.230:9002/ADULT-SWIM/index.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Argentina",AMC Latin America (1080p)
 http://15.204.246.24:8080/AMCHD/index.m3u8
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Argentina",AXN Latin America South
@@ -327,6 +329,8 @@ http://45.177.114.115/TV_RA_TIM_BUM/index.m3u8
 http://45.162.64.114/TV_SENADO/index.m3u8
 #EXTINF:-1 tvg-id="WooHoo.br@SD" tvg-logo="https://i.imgur.com/me622pa.png" group-title="Brazil",WooHoo (720p)
 http://45.162.64.114/WOOHOO/index.m3u8
+#EXTINF:-1 tvg-id="tvNAsia.hk@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/960px-Logo_tvN.svg.png" group-title="Brunei",tvN Asia HD (720p)
+http://58.8.186.128:10005/bysid/2518
 #EXTINF:-1 tvg-id="78TV.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Seven-Eight-TV.png/960px-Seven-Eight-TV.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",7/8 TV
 http://213.91.179.28:8000/play/a0cn
 #EXTINF:-1 tvg-id="AXNCEE.es@Bulgary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Bulgaria",AXN CEE Bulgary
@@ -1177,8 +1181,6 @@ http://103.72.101.252:8080/live/1455.m3u8
 http://103.72.101.252:8080/live/420.m3u8
 #EXTINF:-1 tvg-id="JayaTV.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JAYA_TV/images/LOGO_HD/image.png" group-title="India",Jaya TV (1080p)
 http://103.72.101.252:8080/live/419.m3u8
-#EXTINF:-1 tvg-id="Jonack.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JONACK/images/LOGO_HD/image.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="India",Jonack (576p)
-http://103.175.73.12:8080/live/676/master.m3u8
 #EXTINF:-1 tvg-id="JothiTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JOTHI_TV/images/LOGO_HD/image.png" group-title="India",Jothi TV (1080p)
 http://103.154.3.101:5001/live/2768.m3u8
 #EXTINF:-1 tvg-id="Kabaddi24x7.in@SD" tvg-logo="https://papaji.freetvindia.com/media/kabaddi_24x7.png" group-title="India",Kabaddi 24x7 (576p)
@@ -1233,8 +1235,6 @@ http://103.72.101.252:8080/live/1411.m3u8
 http://38.96.178.205/SONYHD/index.m3u8
 #EXTINF:-1 tvg-id="SportsSquadHaryana.in@SD" tvg-logo="https://papaji.freetvindia.com/media/Sports_Squad_Hariyana.png" group-title="India",Sports Squad Haryana (576p)
 http://180.188.254.253/live/SPORTSSQUADHARYANA.m3u8
-#EXTINF:-1 tvg-id="StarBharat.in@SD" tvg-logo="https://i.imgur.com/Q8ajPij.png" group-title="India",Star Bharat (576p)
-http://103.253.18.58:8000/play/a00u
 #EXTINF:-1 tvg-id="StarGold2.in@SD" tvg-logo="https://i.imgur.com/G0ZfzZr.png" group-title="India",Star Gold 2 (576p)
 http://107.167.16.138/stargold2/index.m3u8?token=test
 #EXTINF:-1 tvg-id="StarGold2.in@HD" tvg-logo="https://i.imgur.com/G0ZfzZr.png" group-title="India",Star Gold 2 HD (1080p)
@@ -1247,10 +1247,6 @@ http://103.253.18.58:8000/play/a03o
 http://103.157.248.140:8000/play/a01m/index.m3u8
 #EXTINF:-1 tvg-id="StarSportsKhel.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_KHEL/images/LOGO_HD/LOGO_HD_image.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="India",Star Sports Khel (1080p)
 http://103.175.73.12:8080/live/151/151_0.m3u8
-#EXTINF:-1 tvg-id="StarUtsavMovies.in@SD" tvg-logo="https://i.imgur.com/k5QHfH2.png" group-title="India",Star Utsav Movies (576p)
-http://149.71.34.166:8000/play/a059/index.m3u8
-#EXTINF:-1 tvg-id="StarVijay.in@HD" tvg-logo="https://i.imgur.com/dZtJHAe.png" group-title="India",Star Vijay HD (1080p)
-http://149.71.34.166:8000/play/a06i/index.m3u8
 #EXTINF:-1 tvg-id="StarPlus.in@HD" tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="India",StarPlus HD (1080i)
 http://202.70.146.135:8000/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="SuperHungama.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUPER_HUNGAMA/images/LOGO_HD/image.png" group-title="India",Super Hungama (576p)
@@ -1405,6 +1401,10 @@ http://122.248.43.242:1935/RIAUTV/_definst_/myStream/playlist.m3u8
 http://116.254.112.74/hls/cakralive.m3u8
 #EXTINF:-1 tvg-id="Simpang5TV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Simpang5_TV.png" group-title="Indonesia",Simpang5 TV (360p) [Not 24/7]
 http://122.248.43.242:1935/SIMPANG5TV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="SPOTV.id@SD" tvg-logo="https://i.imgur.com/HaoVsm5.png" group-title="Indonesia",SPOTV (720p)
+http://58.8.186.128:10006/bysid/2614
+#EXTINF:-1 tvg-id="SPOTV2.id@SD" tvg-logo="https://i.imgur.com/YD8fbTH.png" group-title="Indonesia",SPOTV 2 (720p)
+http://58.8.186.128:10006/bysid/2630
 #EXTINF:-1 tvg-id="STV.id@SD" tvg-logo="https://i.imgur.com/EIrXgT8.png" group-title="Indonesia",STV (720p) [Not 24/7]
 http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="SultraTV.id@SD" tvg-logo="https://i.imgur.com/cmpbNJz.png" group-title="Indonesia",Sultra TV (720p) [Not 24/7]
@@ -1439,6 +1439,8 @@ http://151.0.207.99:1935/italia7/italia7/playlist.m3u8
 http://151.0.207.99:1935/live/LAZIOTV12/playlist.m3u8
 #EXTINF:-1 tvg-id="LeCronacheTV.it@SD" tvg-logo="https://i.imgur.com/d8ziiEJ.png" group-title="Italy",Le Cronache TV (720p)
 http://77.68.40.210:8888/hls/cronache.m3u8
+#EXTINF:-1 tvg-id="NickJr.it@SD" tvg-logo="https://i.imgur.com/6p3eFgf.png" group-title="Italy",Nick Jr. (720p)
+http://102.129.186.182:81/nick/index.m3u8
 #EXTINF:-1 tvg-id="PassioneLotto.it@SD" tvg-logo="https://i.imgur.com/jYmy4G5.png" group-title="Italy",Passione Lotto (300p)
 http://185.63.52.103:8080/hls/passionelotto/1_2/index.m3u8
 #EXTINF:-1 tvg-id="Radio51TV.it@SD" tvg-logo="https://i.imgur.com/UupkBt6.png" group-title="Italy",Radio 51 TV (480p) [Geo-blocked]
@@ -1581,7 +1583,7 @@ http://115.42.65.142:9981/stream/channelid/113328724
 http://115.42.65.142:9981/stream/channelid/750987367
 #EXTINF:-1 tvg-id="AbbTakk.pk@SD" tvg-logo="https://i.imgur.com/D6IHRrP.png" group-title="Pakistan",Abb Takk (576p)
 http://115.42.65.142:9981/stream/channelid/852828604
-#EXTINF:-1 tvg-id="ABNNews.pk@SD" tvg-logo="" group-title="Pakistan",ABN News (1080p)
+#EXTINF:-1 tvg-id="ABNNews.pk@SD" tvg-logo="https://i.imgur.com/R7BThkR.jpeg" group-title="Pakistan",ABN News (1080p)
 http://115.42.65.142:9981/stream/channelid/966869781
 #EXTINF:-1 tvg-id="ApnaChannel.pk@SD" tvg-logo="https://i.imgur.com/ICSA4W6.png" group-title="Pakistan",Apna Channel (576p)
 http://115.42.65.142:9981/stream/channelid/1273966657
@@ -2001,6 +2003,10 @@ http://92.60.238.10:1935/live/belleamie/playlist.m3u8
 http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8
 #EXTINF:-1 tvg-id="TVKanalM.rs@SD" tvg-logo="https://i.imgur.com/hqNVRUU.png" group-title="Serbia",TV Kanal M (576p)
 http://176.67.210.1/hls/kanalm.m3u8
+#EXTINF:-1 tvg-id="ROCKEntertainment.sg@HD" tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="Singapore",ROCK Entertainment HD (720p)
+http://58.8.186.128:10006/bysid/2612
+#EXTINF:-1 tvg-id="ROCKXStream.sg@HD" tvg-logo="https://i.ibb.co/TM8d2yp8/Rock-X-Stream.webp" group-title="Singapore",ROCK X Stream (720p)
+http://58.8.186.128:10007/bysid/2811
 #EXTINF:-1 tvg-id="Sport.sk@SD" tvg-logo="https://i.imgur.com/oAtcxNZ.png" group-title="Slovakia",:Šport (1080p)
 http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="24.sk@SD" tvg-logo="https://i.imgur.com/tTCuczU.png" group-title="Slovakia",:24 (1080p)
@@ -2119,6 +2125,8 @@ http://162.19.247.76:22222/live/taishi/index.m3u8
 http://138.68.138.119:8080/live/5a8993709ea19/index.m3u8
 #EXTINF:-1 tvg-id="IBNTVAfrica.tz@SD" tvg-logo="https://i.imgur.com/eKy2ocd.png" group-title="Tanzania",IBN TV Africa (720p)
 http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8
+#EXTINF:-1 tvg-id="AXNAsia.sg@Thailand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Thailand",AXN Asia Thailand (720p)
+http://58.8.186.128:10007/bysid/2814
 #EXTINF:-1 tvg-id="ETV.th@SD" tvg-logo="https://i.imgur.com/HTnQGcs.png" group-title="Thailand",ETV (1080p)
 http://150.95.66.20:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="Mangorn.th@SD" tvg-logo="" group-title="Thailand",Mangorn (720p)
@@ -2129,6 +2137,18 @@ http://146.88.62.69:1935/Transcoder/มายาHD.stream_576p/playlist.m3u8
 http://180.180.243.239/streams/3/hls
 #EXTINF:-1 tvg-id="SBTTV.th@SD" tvg-logo="https://i.imgur.com/rmNDylW.png" group-title="Thailand",SBT TV
 http://122.155.12.107:1935/live/sbt_tv_aac_300/playlist.m3u8
+#EXTINF:-1 tvg-id="TrueFilm1.th@SD" tvg-logo="https://i.imgur.com/z9XvYLe.png" group-title="Thailand",True Film 1 (720p)
+http://58.8.186.128:10004/bysid/2415
+#EXTINF:-1 tvg-id="TrueFilm2.th@SD" tvg-logo="https://i.imgur.com/4K1HbOB.png" group-title="Thailand",True Film 2 (720p)
+http://58.8.186.128:10004/bysid/2432
+#EXTINF:-1 tvg-id="TrueFilmAsia.th@SD" tvg-logo="https://i.imgur.com/Ci872im.png" group-title="Thailand",True Film Asia (720p)
+http://58.8.186.128:10004/bysid/2416
+#EXTINF:-1 tvg-id="TrueMovieHits.th@SD" tvg-logo="https://i.imgur.com/65kk1R3.png" group-title="Thailand",True Movie Hits (720p)
+http://58.8.186.128:10003/bysid/2325
+#EXTINF:-1 tvg-id="TrueTennis.th@SD" tvg-logo="https://i.imgur.com/Zu72OYA.png" group-title="Thailand",True Tennis (720p)
+http://58.8.186.128:10004/bysid/2418
+#EXTINF:-1 tvg-id="TrueThaiFilm.th@SD" tvg-logo="https://i.imgur.com/MfLY3LF.png" group-title="Thailand",True Thai Film (720p)
+http://58.8.186.128:10003/bysid/2326
 #EXTINF:-1 tvg-id="TVT.tg@SD" tvg-logo="https://i.imgur.com/WtXonN9.png" group-title="Togo",TVT (720p) [Not 24/7]
 http://69.64.57.208/tvt/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCFirst.uk@Turkiye" tvg-logo="https://i.imgur.com/UBoBYUI.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Turkiye",BBC First Turkiye
@@ -2173,6 +2193,8 @@ http://116.90.120.151:8000/play/a0ax/index.m3u8
 http://45.77.66.224:1935/athavantv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AlbUKTV.uk@SD" tvg-logo="https://i.imgur.com/TMg4Kxi.png" group-title="United Kingdom",Alb UK TV (1080p)
 http://5.254.89.106/8794/index.m3u8
+#EXTINF:-1 tvg-id="BBCLifestyle.uk@Asia" tvg-logo="https://i.imgur.com/9mzJJ3y.png" group-title="United Kingdom",BBC Lifestyle Asia (720p)
+http://58.8.186.128:10003/bysid/2333
 #EXTINF:-1 tvg-id="BBCNews.uk@UKHD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="United Kingdom",BBC News UK HD (1080p)
 http://45.153.96.44:8001
 #EXTINF:-1 tvg-id="BBCOne.uk@LondonHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="United Kingdom",BBC One London HD (720p)
@@ -2457,6 +2479,8 @@ http://38.19.16.151:8000/play/a0a3
 http://138.121.113.175:8000/play/a0ca/index.m3u8
 #EXTINF:-1 tvg-id="ElGourmet.ar@Panregional" tvg-logo="https://i.imgur.com/ByMyRI9.png" group-title="International",El Gourmet (1080p)
 http://15.204.246.24:8080/ElGourmetHD/index.m3u8
+#EXTINF:-1 tvg-id="Enlace.cr@SD" tvg-logo="https://i.imgur.com/YwUVTmS.png" group-title="International",Enlace (1080p)
+http://138.121.15.230:9002/ENLACE/index.m3u8
 #EXTINF:-1 tvg-id="EuroIndieMusicChartTV.it@SD" tvg-logo="https://i.imgur.com/lF0iofX.png" group-title="International",Euro Indie Music Chart TV (360p)
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmArts.ar@Panregional" tvg-logo="https://i.imgur.com/ukdmEKD.png" group-title="International",Film & Arts (1080p)
@@ -2483,6 +2507,8 @@ http://15.204.246.24:8080/LasEstrellasHD/index.m3u8
 http://138.121.15.230:9002/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="International",National Geographic Latin America (1080p)
 http://15.204.246.24:8080/NatGeoHD/index.m3u8
+#EXTINF:-1 tvg-id="NickJrAsia.sg@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" group-title="International",Nick Jr. Asia HD (720p)
+http://58.8.186.128:10003/bysid/2330
 #EXTINF:-1 tvg-id="NTN24.co@SD" tvg-logo="https://i.imgur.com/UoKmSAP.png" group-title="International",NTN24 (576p)
 http://181.78.8.199:8000/play/a0a6/index.m3u8
 #EXTINF:-1 tvg-id="NTVMir.ru@SD" tvg-logo="https://i.imgur.com/pUcV46F.png" group-title="International",NTV Mir (576p)
