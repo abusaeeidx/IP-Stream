@@ -185,6 +185,8 @@ http://149.62.177.107:9999/LCI/index.m3u8
 http://151.80.18.177:86/LCI_HD/index.m3u8
 #EXTINF:-1 tvg-id="MCMPop.fr@SD" tvg-logo="https://i.imgur.com/j31lBL7.png" group-title="Belgium",MCM Pop (580p)
 http://188.115.15.121:8000/play/a014
+#EXTINF:-1 tvg-id="MCMTop.fr@SD" tvg-logo="https://i.imgur.com/EVtWQLd.png" group-title="Belgium",MCM Top (France)
+http://185.228.163.146:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="MTV.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Belgium",MTV (France)
 http://99.27.51.147:8080/MTV/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.nl@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Belgium",National Geographic (Netherlands) HD (1080p)
@@ -433,8 +435,8 @@ http://85.14.32.26:8800/udp/239.100.10.18:5000
 http://213.91.179.28:8000/play/a04m
 #EXTINF:-1 tvg-id="BOXTV.bg@SD" tvg-logo="https://i.imgur.com/swFzesA.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",BOX TV
 http://213.91.179.28:8000/play/a0an
-#EXTINF:-1 tvg-id="bTV.bg@SD" tvg-logo="https://i.imgur.com/l47z7gw.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",bTV
-http://213.91.179.28:8000/play/a03w
+#EXTINF:-1 tvg-id="bTV.bg@SD" tvg-logo="https://i.imgur.com/l47z7gw.png" group-title="Bulgaria",bTV (576p)
+http://85.11.189.178:8080/bTV/index.m3u8
 #EXTINF:-1 tvg-id="bTVAction.bg@SD" tvg-logo="https://i.imgur.com/hGUXHuT.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",bTV Action
 http://213.91.179.28:8000/play/a04n
 #EXTINF:-1 tvg-id="bTVCinema.bg@SD" tvg-logo="https://i.imgur.com/uV81rS4.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",bTV Cinema
@@ -453,6 +455,8 @@ http://193.33.39.108:9009/play/a024
 http://193.33.39.108:9023/play/a01b
 #EXTINF:-1 tvg-id="CineStar1Bulgaria.bg@SD" tvg-logo="https://i.imgur.com/t9vVTLH.png" group-title="Bulgaria",CineStar 1 Bulgaria
 http://213.91.179.28:8000/play/a05h
+#EXTINF:-1 tvg-id="CineStarActionBulgaria.bg@SD" tvg-logo="https://i.imgur.com/bTf7A9J.png" group-title="Bulgaria",CineStar Action Bulgaria
+http://213.91.179.28:8000/play/a06b
 #EXTINF:-1 tvg-id="Diema.bg@SD" tvg-logo="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",Diema
 http://213.91.179.28:8000/play/a045
 #EXTINF:-1 tvg-id="DiemaFamily.bg@SD" tvg-logo="https://i.imgur.com/SgNVY4d.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",Diema Family
@@ -1007,6 +1011,8 @@ http://88.212.15.50/live/test_seznam_hevc_25p/playlist.m3u8
 http://88.212.15.50/live/test_tlc_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="TravelChannel.cz@SD" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/e/e4/Travel_Channel_International_%282017%29.svg/revision/latest?cb=20250820081027" group-title="Czech Republic",Travel Channel (Czech Republic)
 http://88.212.15.50/live/test_travel_channel_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Travelxp.in@4KCzechia" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png" group-title="Czech Republic",Travelxp 4K Czechia
+http://88.212.7.14/live/travel_xp_4k/index.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in@Czechia" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png" group-title="Czech Republic",Travelxp Czechia
 http://88.212.7.14/live/travel_xp/index.m3u8
 #EXTINF:-1 tvg-id="TVBarrandov.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_TV_Barrandov.png/960px-Logo_TV_Barrandov.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Czech Republic",TV Barrandov
@@ -1497,8 +1503,6 @@ http://103.151.60.162:2122/play/a01v/index.m3u8?hls
 http://103.185.24.134:3001/Star-Gold/index.m3u8
 #EXTINF:-1 tvg-id="StarKiran.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143820_ld_h15_aa.png?lock=720x540" group-title="India",Star Kiran (576p)
 http://103.151.60.162:2122/play/a032/index.m3u8?hls
-#EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="India",Star Movies (India) HD (1080p)
-http://103.151.60.162:2122/play/a02k/index.m3u8?hls
 #EXTINF:-1 tvg-id="StarSports2.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png" group-title="India",Star Sports 2 (576p)
 http://103.151.60.162:2122/play/a00v/index.m3u8?hls
 #EXTINF:-1 tvg-id="StarSports3.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_3/images/LOGO_HD/image.png" group-title="India",Star Sports 3 (576p)
@@ -1987,6 +1991,8 @@ http://190.93.224.42/PBO/index.m3u8
 http://190.93.224.42/RPP/index.m3u8
 #EXTINF:-1 tvg-id="RumboMineroTV.pe@SD" tvg-logo="https://www.rumbominero.com/wp-content/uploads/2021/05/logo_RM_AM_2.png" group-title="Peru",Rumbo Minero TV (1080p)
 http://45.70.201.81:8000/play/a018/index.m3u8
+#EXTINF:-1 tvg-id="TelevisionTarapoto.pe@SD" tvg-logo="https://i.imgur.com/Dzen7sh.png" group-title="Peru",Television Tarapoto (1080p)
+http://45.5.57.58:8000/play/a038/index.m3u8
 #EXTINF:-1 tvg-id="TopLatinoTV.pe@SD" tvg-logo="https://i.imgur.com/VRl8nPZ.png" group-title="Peru",Top Latino TV
 http://38.87.224.20:2220/play/a02b/index.m3u8
 #EXTINF:-1 tvg-id="Trivu.pe@SD" tvg-logo="https://i.imgur.com/QrUYjOS.png" group-title="Peru",Trivu (1080p)
@@ -2241,6 +2247,8 @@ http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
 http://45.170.130.224:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="TeleCongo.cg@SD" tvg-logo="https://i.imgur.com/gbFtP14.png" group-title="Republic of the Congo",Tele Congo (720p)
 http://51.254.199.122:8080/telecongo/index.m3u8
+#EXTINF:-1 tvg-id="PrimaTV.ro@SD" tvg-logo="https://i.imgur.com/p2umWAT.png" group-title="Romania",Prima TV (Romania)
+http://89.44.231.73:7000/primatv
 #EXTINF:-1 tvg-id="TeleMBotosani.ro@SD" tvg-logo="https://i.imgur.com/3EZ8CmJ.png" group-title="Romania",TeleM Botosani (540p) [Not 24/7]
 http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8
 #EXTINF:-1 tvg-id="TraditionalTV.ro@SD" tvg-logo="https://i.ibb.co/G5bNH48/Traditional-TV-HD.png" group-title="Romania",Traditional TV (1080p)
@@ -2355,7 +2363,7 @@ http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8
 http://31.148.48.15/Match_Strana/index.m3u8
 #EXTINF:-1 tvg-id="MatchUltra.ru@4K" tvg-logo="https://www.kartina.tv/media/news/images/News/SEO/kanal-match-ultra.jpg" group-title="Russia",Match! Ultra (1080p)
 http://31.148.5.241/kanal_3/index.m3u8
-#EXTINF:-1 tvg-id="MCMTop.ru@SD" tvg-logo="https://i.imgur.com/EVtWQLd.png" group-title="Russia",MCM Top (576p)
+#EXTINF:-1 tvg-id="MCMTop.ru@SD" tvg-logo="https://i.imgur.com/EVtWQLd.png" group-title="Russia",MCM Top (Russia) (576p)
 http://46.32.176.50/mcmtop/index.m3u8
 #EXTINF:-1 tvg-id="Mir.ru@Plus4" tvg-logo="https://i.imgur.com/AqWaJT8.png" group-title="Russia",Mir +4 (576p)
 http://31.148.48.15/Mir/index.m3u8
