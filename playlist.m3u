@@ -1,8 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Bangladesh",Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports HD (4) (4) (4) (4) (4)
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports HD (4) (4) (4) (4) (4) (4)
 http://103.135.253.32:8080/T-SPORTS-FULL-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Star News (1080p)" group-title="Bangladesh",Star News (1080p)
+http://103.135.253.32:8080/Star-News/index.m3u8
 #EXTINF:-1 tvg-name="Gazi TV (720p)" group-title="Bangladesh",Gazi TV (720p)
 http://103.135.253.32:8080/Gazi-TV/index.m3u8
 #EXTINF:-1 tvg-name="Willow Extra" group-title="Bangladesh",Willow Extra
@@ -173,8 +175,6 @@ http://158.69.24.53:8080/probashi_tv/index.m3u8
 http://103.185.24.134:3001/SONIC/index.m3u8
 #EXTINF:-1 tvg-id="StarJalsha.in@HD" tvg-logo="https://i.imgur.com/IlufzR5.png" group-title="Bangladesh",Star Jalsha HD (1080p)
 http://103.135.253.32:8080/STAR-JALSHA-HD/index.m3u8
-#EXTINF:-1 tvg-id="StarNews.bd@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Star_News_Bangladesh_Logo.svg/1280px-Star_News_Bangladesh_Logo.svg.png" group-title="Bangladesh",Star News (1080p)
-http://103.135.253.32:8080/Star-News/index.m3u8
 #EXTINF:-1 tvg-id="ZeeBanglaSonar.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00287G7K.png?lock=720x540" group-title="Bangladesh",Zee Bangla Sonar (576p)
 http://103.185.24.134:3001/ZEE-BANGLA-CINEMA/index.m3u8
 #EXTINF:-1 tvg-id="Belarus5.by@HD" tvg-logo="https://i.imgur.com/NJsRFud.png" group-title="Belarus",Belarus-5 HD (1080p)
